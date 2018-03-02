@@ -2,9 +2,10 @@
   "name": "c-3po",
   "version": "0.0.0",
   "private": true,
-  "author": "joaofabiov@gmail.com",
-  "description": "I have a real bad feeling about this",
+  "author": "Joao Fabio Vicente <joaofabiov@gmail.com>",
+  "description": "android",
   "dependencies": {
+    "got": "^8.0.2",
     "hubot": "^2.19.0",
     "hubot-diagnostics": "0.0.2",
     "hubot-google-images": "^0.2.7",
@@ -20,6 +21,6 @@
     "hubot-slack": "^4.4.0"
   },
   "engines": {
-    "node": "0.10.x"
+    "node": "6.11.1"
   }
 }
