@@ -14,7 +14,8 @@ const _msgInicial = (msg) => {
   msg.reply(`Comandos:
   	*trailer [nome do filme]* : Retorna trailer do Filme
   	*informe as regras* : Retorna as regras do clã
-  	*informe o link* : Retorna o link com a planilha do clã`);
+  	*informe o link* : Retorna o link com a planilha do clã
+  	*passo a passo slack* : Retorna o link so PDF com o passo a passo`);
 }
 
 
