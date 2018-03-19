@@ -6,7 +6,7 @@
 
 // o que está ouvindo
 const COMMANDS = {
-  HELLO: /link cpi/i,
+  HELLO: /informe o link/i,
 };
 
 // Lógica da ação do bot
