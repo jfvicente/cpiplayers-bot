@@ -1,0 +1,202 @@
+up to date in 8.745s
+warn: SlackDataStore is deprecated and will be removed in the next major version. See project documentation for a migration guide.
+warn: SlackDataStore is deprecated and will be removed in the next major version. See project documentation for a migration guide.
+[Fri Mar 02 2018 11:37:39 GMT-0300 (-03)] INFO Logged in as c-3po of Clã Primeiro Império
+[Fri Mar 02 2018 11:37:40 GMT-0300 (-03)] INFO Slack client now connected
+[Fri Mar 02 2018 11:37:40 GMT-0300 (-03)] WARNING Loading scripts from hubot-scripts.json is deprecated and will be removed in 3.0 (https://github.com/github/hubot-scripts/issues/1113) in favor of packages for each script.
+
+Your hubot-scripts.json is empty, so you just need to remove it.
+[Fri Mar 02 2018 11:37:41 GMT-0300 (-03)] ERROR hubot-heroku-keepalive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s | grep web.url | cut -d= -f2)`
+[Fri Mar 02 2018 11:37:41 GMT-0300 (-03)] INFO hubot-redis-brain: Using default redis on localhost:6379
+[Fri Mar 02 2018 12:37:41 GMT-0300 (-03)] ERROR Error: Redis connection in broken state: connection timeout exceeded.
+    at RedisClient.connection_gone (/home/jfvicente/repositorios/cpiplayers-bot/node_modules/redis/index.js:644:19)
+    at RedisClient.on_error (/home/jfvicente/repositorios/cpiplayers-bot/node_modules/redis/index.js:405:10)
+    at Socket.<anonymous> (/home/jfvicente/repositorios/cpiplayers-bot/node_modules/redis/index.js:279:14)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+
+warn: Reconnecting, on attempt 1
+[Fri Mar 02 2018 23:43:47 GMT-0300 (-03)] INFO Logged in as c-3po of Clã Primeiro Império
+[Fri Mar 02 2018 23:43:48 GMT-0300 (-03)] INFO Slack client now connected
+warn: Reconnecting, on attempt 1
+[Sat Mar 03 2018 10:46:47 GMT-0300 (-03)] INFO Logged in as c-3po of Clã Primeiro Império
+warn: No pong in 97108ms, treating error as keep-alive
+[Sat Mar 03 2018 10:47:53 GMT-0300 (-03)] ERROR undefined
+warn: Reconnecting, on attempt 2
+[Sat Mar 03 2018 10:47:54 GMT-0300 (-03)] INFO Logged in as c-3po of Clã Primeiro Império
+[Sat Mar 03 2018 10:47:55 GMT-0300 (-03)] INFO Slack client now connected
+warn: Reconnecting, on attempt 1
+[Sat Mar 03 2018 16:18:52 GMT-0300 (-03)] INFO Logged in as c-3po of Clã Primeiro Império
+warn: No pong in 97249ms, treating error as keep-alive
+[Sat Mar 03 2018 16:19:59 GMT-0300 (-03)] ERROR undefined
+warn: Reconnecting, on attempt 2
+[Sat Mar 03 2018 16:19:59 GMT-0300 (-03)] INFO Logged in as c-3po of Clã Primeiro Império
+[Sat Mar 03 2018 16:20:00 GMT-0300 (-03)] INFO Slack client now connected
+up to date in 8.74s
+warn: SlackDataStore is deprecated and will be removed in the next major version. See project documentation for a migration guide.
+warn: SlackDataStore is deprecated and will be removed in the next major version. See project documentation for a migration guide.
+[Mon Mar 05 2018 15:15:17 GMT-0300 (-03)] ERROR Error: listen EADDRINUSE 0.0.0.0:8080
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1351:14)
+    at listenInCluster (net.js:1392:12)
+    at doListen (net.js:1501:7)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+    at Function.Module.runMain (module.js:686:11)
+    at startup (bootstrap_node.js:187:16)
+    at bootstrap_node.js:608:3
+
+[Mon Mar 05 2018 15:15:18 GMT-0300 (-03)] INFO Logged in as c-3po of Clã Primeiro Império
+[Mon Mar 05 2018 15:15:19 GMT-0300 (-03)] INFO Slack client now connected
+[Mon Mar 05 2018 15:15:19 GMT-0300 (-03)] WARNING Loading scripts from hubot-scripts.json is deprecated and will be removed in 3.0 (https://github.com/github/hubot-scripts/issues/1113) in favor of packages for each script.
+
+Your hubot-scripts.json is empty, so you just need to remove it.
+[Mon Mar 05 2018 15:15:19 GMT-0300 (-03)] ERROR hubot-heroku-keepalive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s | grep web.url | cut -d= -f2)`
+[Mon Mar 05 2018 15:15:20 GMT-0300 (-03)] INFO hubot-redis-brain: Using default redis on localhost:6379
+up to date in 9.759s
+warn: SlackDataStore is deprecated and will be removed in the next major version. See project documentation for a migration guide.
+warn: SlackDataStore is deprecated and will be removed in the next major version. See project documentation for a migration guide.
+[Mon Mar 05 2018 15:35:39 GMT-0300 (-03)] INFO Logged in as c-3po of Clã Primeiro Império
+[Mon Mar 05 2018 15:35:40 GMT-0300 (-03)] INFO Slack client now connected
+[Mon Mar 05 2018 15:35:40 GMT-0300 (-03)] WARNING Loading scripts from hubot-scripts.json is deprecated and will be removed in 3.0 (https://github.com/github/hubot-scripts/issues/1113) in favor of packages for each script.
+
+Your hubot-scripts.json is empty, so you just need to remove it.
+[Mon Mar 05 2018 15:35:41 GMT-0300 (-03)] ERROR hubot-heroku-keepalive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s | grep web.url | cut -d= -f2)`
+[Mon Mar 05 2018 15:35:42 GMT-0300 (-03)] INFO hubot-redis-brain: Using default redis on localhost:6379
+up to date in 8.919s
+warn: SlackDataStore is deprecated and will be removed in the next major version. See project documentation for a migration guide.
+warn: SlackDataStore is deprecated and will be removed in the next major version. See project documentation for a migration guide.
+[Mon Mar 05 2018 15:51:36 GMT-0300 (-03)] INFO Logged in as c-3po of Clã Primeiro Império
+[Mon Mar 05 2018 15:51:37 GMT-0300 (-03)] INFO Slack client now connected
+[Mon Mar 05 2018 15:51:37 GMT-0300 (-03)] WARNING Loading scripts from hubot-scripts.json is deprecated and will be removed in 3.0 (https://github.com/github/hubot-scripts/issues/1113) in favor of packages for each script.
+
+Your hubot-scripts.json is empty, so you just need to remove it.
+[Mon Mar 05 2018 15:51:38 GMT-0300 (-03)] ERROR hubot-heroku-keepalive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s | grep web.url | cut -d= -f2)`
+[Mon Mar 05 2018 15:51:39 GMT-0300 (-03)] INFO hubot-redis-brain: Using default redis on localhost:6379
+up to date in 8.887s
+warn: SlackDataStore is deprecated and will be removed in the next major version. See project documentation for a migration guide.
+warn: SlackDataStore is deprecated and will be removed in the next major version. See project documentation for a migration guide.
+[Mon Mar 05 2018 15:54:25 GMT-0300 (-03)] INFO Logged in as c-3po of Clã Primeiro Império
+[Mon Mar 05 2018 15:54:26 GMT-0300 (-03)] INFO Slack client now connected
+[Mon Mar 05 2018 15:54:26 GMT-0300 (-03)] WARNING Loading scripts from hubot-scripts.json is deprecated and will be removed in 3.0 (https://github.com/github/hubot-scripts/issues/1113) in favor of packages for each script.
+
+Your hubot-scripts.json is empty, so you just need to remove it.
+[Mon Mar 05 2018 15:54:26 GMT-0300 (-03)] ERROR hubot-heroku-keepalive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s | grep web.url | cut -d= -f2)`
+[Mon Mar 05 2018 15:54:27 GMT-0300 (-03)] INFO hubot-redis-brain: Using default redis on localhost:6379
+up to date in 8.896s
+warn: SlackDataStore is deprecated and will be removed in the next major version. See project documentation for a migration guide.
+warn: SlackDataStore is deprecated and will be removed in the next major version. See project documentation for a migration guide.
+[Mon Mar 05 2018 15:55:39 GMT-0300 (-03)] INFO Logged in as c-3po of Clã Primeiro Império
+[Mon Mar 05 2018 15:55:40 GMT-0300 (-03)] INFO Slack client now connected
+[Mon Mar 05 2018 15:55:40 GMT-0300 (-03)] WARNING Loading scripts from hubot-scripts.json is deprecated and will be removed in 3.0 (https://github.com/github/hubot-scripts/issues/1113) in favor of packages for each script.
+
+Your hubot-scripts.json is empty, so you just need to remove it.
+[Mon Mar 05 2018 15:55:41 GMT-0300 (-03)] ERROR hubot-heroku-keepalive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s | grep web.url | cut -d= -f2)`
+[Mon Mar 05 2018 15:55:41 GMT-0300 (-03)] INFO hubot-redis-brain: Using default redis on localhost:6379
+[Mon Mar 05 2018 16:55:42 GMT-0300 (-03)] ERROR Error: Redis connection in broken state: connection timeout exceeded.
+    at RedisClient.connection_gone (/home/jfvicente/repositorios/cpiplayers-bot/node_modules/redis/index.js:644:19)
+    at RedisClient.on_error (/home/jfvicente/repositorios/cpiplayers-bot/node_modules/redis/index.js:405:10)
+    at Socket.<anonymous> (/home/jfvicente/repositorios/cpiplayers-bot/node_modules/redis/index.js:279:14)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+
+up to date in 9.627s
+warn: SlackDataStore is deprecated and will be removed in the next major version. See project documentation for a migration guide.
+warn: SlackDataStore is deprecated and will be removed in the next major version. See project documentation for a migration guide.
+[Tue Mar 06 2018 17:26:53 GMT-0300 (-03)] INFO Logged in as c-3po of Clã Primeiro Império
+[Tue Mar 06 2018 17:26:54 GMT-0300 (-03)] INFO Slack client now connected
+[Tue Mar 06 2018 17:26:54 GMT-0300 (-03)] WARNING Loading scripts from hubot-scripts.json is deprecated and will be removed in 3.0 (https://github.com/github/hubot-scripts/issues/1113) in favor of packages for each script.
+
+Your hubot-scripts.json is empty, so you just need to remove it.
+[Tue Mar 06 2018 17:26:54 GMT-0300 (-03)] ERROR hubot-heroku-keepalive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s | grep web.url | cut -d= -f2)`
+[Tue Mar 06 2018 17:26:55 GMT-0300 (-03)] INFO hubot-redis-brain: Using default redis on localhost:6379
+[Tue Mar 06 2018 18:26:55 GMT-0300 (-03)] ERROR Error: Redis connection in broken state: connection timeout exceeded.
+    at RedisClient.connection_gone (/home/jfvicente/repositorios/cpiplayers-bot/node_modules/redis/index.js:644:19)
+    at RedisClient.on_error (/home/jfvicente/repositorios/cpiplayers-bot/node_modules/redis/index.js:405:10)
+    at Socket.<anonymous> (/home/jfvicente/repositorios/cpiplayers-bot/node_modules/redis/index.js:279:14)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+
+warn: Reconnecting, on attempt 1
+[Wed Mar 07 2018 06:29:29 GMT-0300 (-03)] INFO Logged in as c-3po of Clã Primeiro Império
+warn: No pong in 96716ms, treating error as keep-alive
+[Wed Mar 07 2018 06:30:35 GMT-0300 (-03)] ERROR undefined
+warn: Reconnecting, on attempt 2
+[Wed Mar 07 2018 06:30:36 GMT-0300 (-03)] INFO Logged in as c-3po of Clã Primeiro Império
+[Wed Mar 07 2018 06:30:36 GMT-0300 (-03)] INFO Slack client now connected
+warn: Reconnecting, on attempt 1
+[Fri Mar 09 2018 15:54:21 GMT-0300 (-03)] INFO Logged in as c-3po of Clã Primeiro Império
+[Fri Mar 09 2018 15:54:23 GMT-0300 (-03)] INFO Slack client now connected
+warn: Reconnecting, on attempt 1
+[Fri Mar 09 2018 17:14:19 GMT-0300 (-03)] INFO Logged in as c-3po of Clã Primeiro Império
+[Fri Mar 09 2018 17:14:29 GMT-0300 (-03)] INFO Slack client now connected
+warn: Reconnecting, on attempt 1
+up to date in 9.631s
+warn: SlackDataStore is deprecated and will be removed in the next major version. See project documentation for a migration guide.
+warn: SlackDataStore is deprecated and will be removed in the next major version. See project documentation for a migration guide.
+[Fri Mar 16 2018 10:53:26 GMT-0300 (-03)] INFO Logged in as c-3po of Clã Primeiro Império
+[Fri Mar 16 2018 10:53:26 GMT-0300 (-03)] INFO Slack client now connected
+[Fri Mar 16 2018 10:53:27 GMT-0300 (-03)] WARNING Loading scripts from hubot-scripts.json is deprecated and will be removed in 3.0 (https://github.com/github/hubot-scripts/issues/1113) in favor of packages for each script.
+
+Your hubot-scripts.json is empty, so you just need to remove it.
+[Fri Mar 16 2018 10:53:27 GMT-0300 (-03)] ERROR hubot-heroku-keepalive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s | grep web.url | cut -d= -f2)`
+[Fri Mar 16 2018 10:53:28 GMT-0300 (-03)] INFO hubot-redis-brain: Using default redis on localhost:6379
+[Fri Mar 16 2018 11:53:28 GMT-0300 (-03)] ERROR Error: Redis connection in broken state: connection timeout exceeded.
+    at RedisClient.connection_gone (/home/jfvicente/repositorios/cpiplayers-bot/node_modules/redis/index.js:644:19)
+    at RedisClient.on_error (/home/jfvicente/repositorios/cpiplayers-bot/node_modules/redis/index.js:405:10)
+    at Socket.<anonymous> (/home/jfvicente/repositorios/cpiplayers-bot/node_modules/redis/index.js:279:14)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+
+npm WARN hubot-help@0.2.2 requires a peer of coffee-script@^1.12.6 but none is installed. You must install peer dependencies yourself.
+
+up to date in 9.029s
+warn: SlackDataStore is deprecated and will be removed in the next major version. See project documentation for a migration guide.
+warn: SlackDataStore is deprecated and will be removed in the next major version. See project documentation for a migration guide.
+[Mon Mar 19 2018 18:10:55 GMT-0300 (-03)] INFO Logged in as c-3po of Clã Primeiro Império
+[Mon Mar 19 2018 18:10:56 GMT-0300 (-03)] INFO Slack client now connected
+[Mon Mar 19 2018 18:10:56 GMT-0300 (-03)] WARNING Loading scripts from hubot-scripts.json is deprecated and will be removed in 3.0 (https://github.com/github/hubot-scripts/issues/1113) in favor of packages for each script.
+
+Your hubot-scripts.json is empty, so you just need to remove it.
+[Mon Mar 19 2018 18:10:57 GMT-0300 (-03)] ERROR hubot-heroku-keepalive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s | grep web.url | cut -d= -f2)`
+[Mon Mar 19 2018 18:10:58 GMT-0300 (-03)] INFO hubot-redis-brain: Using default redis on localhost:6379
+[Mon Mar 19 2018 19:10:58 GMT-0300 (-03)] ERROR Error: Redis connection in broken state: connection timeout exceeded.
+  at RedisClient.connection_gone (/home/jfvicente/repositorios/cpiplayers-bot/node_modules/redis/index.js:644:19)
+  at RedisClient.on_error (/home/jfvicente/repositorios/cpiplayers-bot/node_modules/redis/index.js:405:10)
+  at Socket.<anonymous> (/home/jfvicente/repositorios/cpiplayers-bot/node_modules/redis/index.js:279:14)
+  at emitOne (events.js:116:13)
+  at Socket.emit (events.js:211:7)
+  at emitErrorNT (internal/streams/destroy.js:64:8)
+  at _combinedTickCallback (internal/process/next_tick.js:138:11)
+  at process._tickCallback (internal/process/next_tick.js:180:9)
+
+warn: Reconnecting, on attempt 1
+[Tue Mar 20 2018 00:05:33 GMT-0300 (-03)] INFO Logged in as c-3po of Clã Primeiro Império
+warn: Reconnecting, on attempt 2
+[Tue Mar 20 2018 00:07:48 GMT-0300 (-03)] INFO Logged in as c-3po of Clã Primeiro Império
+[Tue Mar 20 2018 00:08:20 GMT-0300 (-03)] INFO Slack client now connected
+npm WARN hubot-help@0.2.2 requires a peer of coffee-script@^1.12.6 but none is installed. You must install peer dependencies yourself.
+
+up to date in 8.993s
+warn: SlackDataStore is deprecated and will be removed in the next major version. See project documentation for a migration guide.
+warn: SlackDataStore is deprecated and will be removed in the next major version. See project documentation for a migration guide.
+[Tue Mar 20 2018 09:11:41 GMT-0300 (-03)] INFO Logged in as c-3po of Clã Primeiro Império
+[Tue Mar 20 2018 09:11:41 GMT-0300 (-03)] INFO Slack client now connected
+[Tue Mar 20 2018 09:11:41 GMT-0300 (-03)] WARNING Loading scripts from hubot-scripts.json is deprecated and will be removed in 3.0 (https://github.com/github/hubot-scripts/issues/1113) in favor of packages for each script.
+
+Your hubot-scripts.json is empty, so you just need to remove it.
+[Tue Mar 20 2018 09:11:42 GMT-0300 (-03)] ERROR hubot-heroku-keepalive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s | grep web.url | cut -d= -f2)`
+[Tue Mar 20 2018 09:11:43 GMT-0300 (-03)] INFO hubot-redis-brain: Using default redis on localhost:6379
