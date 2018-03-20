@@ -36,8 +36,8 @@ module.exports = (robot) => {
 	});
 	
 	robot.respond(/rank bf1 (.*)/i, (msg) => {
-        //var cpitag = msg.envelope.user.profile.display_name;
-        var cpitag = "CPI LeoLiraRJ"
+        var cpitag = msg.envelope.user.profile.display_name;
+        //var cpitag = "CPI LeoLiraRJ"
 		var $class = msg.match[1];
 		showRank($class, msg, cpitag);
 	});
