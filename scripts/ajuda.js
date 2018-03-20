@@ -11,10 +11,10 @@ const COMMANDS = {
 
 // Lógica da ação do bot
 const _msgInicial = (msg) => {
-  msg.reply(`Comandos:
-  	*trailer [nome do filme]* : Retorna trailer do Filme
-  	*informe as regras* : Retorna as regras do clã
-  	*informe o link* : Retorna o link com a planilha do clã
+	msg.reply(`Comandos:
+		*trailer [nome do filme]* : Retorna trailer do Filme
+		*informe as regras* : Retorna as regras do clã
+		*informe o link* : Retorna o link com a planilha do clã
 		*passo a passo slack* : Retorna o link do PDF com o passo a passo
 		*noticias* : Retorna as ultimas 5 noticias sobre games
 		*meu rank bf1* : mostra a sua posição no rank bf1 geral e nas classes
