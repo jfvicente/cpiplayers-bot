@@ -15,7 +15,8 @@ const _msgInicial = (msg) => {
   	*trailer [nome do filme]* : Retorna trailer do Filme
   	*informe as regras* : Retorna as regras do clã
   	*informe o link* : Retorna o link com a planilha do clã
-  	*passo a passo slack* : Retorna o link so PDF com o passo a passo`);
+		*passo a passo slack* : Retorna o link so PDF com o passo a passo
+		*noticias* : Retorna as ultimas 5 noticias sobre games`);
 }
 
 
