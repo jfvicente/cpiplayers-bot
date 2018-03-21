@@ -1,3 +1,10 @@
+// Description:
+//   Agendamento pra mostrar as ultimas noticias as 8h, 14h e 20h
+//
+// Commands:
+//   c-3po noticias - Mostra as ultimas 5 noticias sobre games
+
+
 var data = require("../app/data/cpiplayers.json");
 var cronJob = require('cron').CronJob
 

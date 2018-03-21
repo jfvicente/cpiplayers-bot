@@ -1,12 +1,9 @@
-
 // Description:
 //   Agendamento pra mostrar as ultimas noticias as 8h, 14h e 20h
 //
 // Commands:
 //   c-3po noticias - Mostra as ultimas 5 noticias sobre games
-//
-// Autor:
-// Leonardo Oliveira
+
 
 var cronJob = require('cron').CronJob
 const Feedly = require('../app/services/feedly');

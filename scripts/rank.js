@@ -1,4 +1,3 @@
-
 // Description:
 //   Controle de Rank CPI - BF1
 //
@@ -6,9 +5,7 @@
 //   c-3po atualiza rank bf1 - atualiza o rank bf1
 //   c-3po meu rank bf1 - mostra a sua posição no rank bf1
 //	 c-3po rank bf1 [classe ou geral] - mostra todo o rank bf1 geral ou da classe escolhida
-//
-// Autor:
-// Leonardo Oliveira
+
 
 const URL_RANK = "http://claprimeiroimperio.com.br/cpi/search_rank.php";
 
