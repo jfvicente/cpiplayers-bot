@@ -15,7 +15,7 @@ module.exports = (robot) => {
         data.forEach(membro => {
             if(membro.Data_Aniversario){
                 var date = membro.Data_Aniversario.split('-');
-                var dateNow = new Date(2018,2,20);
+                var dateNow = new Date();
                 var niverDate = new Date(dateNow.getFullYear(), parseInt(date[1]) - 1, date[0]);
 
                 if(dateNow.setHours(0,0,0,0) == niverDate.setHours(0,0,0,0)){
