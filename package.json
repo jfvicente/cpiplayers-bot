@@ -9,6 +9,7 @@
     "download-file": "^0.1.5",
     "got": "^8.0.2",
     "hubot": "^2.19.0",
+    "hubot-interactive-messages": "0.0.2",
     "hubot-slack": "^4.4.0",
     "node-xboxapiv2": "0.0.3"
   },
