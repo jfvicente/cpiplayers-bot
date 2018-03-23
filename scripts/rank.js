@@ -6,7 +6,7 @@
 //   c-3po meu rank bf1 - mostra a sua posição no rank bf1
 //	 c-3po rank bf1 [classe ou geral] - mostra todo o rank bf1 geral ou da classe escolhida
 
-
+const Util = require("../app/services/util");
 const URL_RANK = "http://claprimeiroimperio.com.br/cpi/search_rank.php";
 
 module.exports = (robot) => {
@@ -22,7 +22,7 @@ module.exports = (robot) => {
                 if(rank_general){
                     var message = "\nMestre, seu rank como pediu:\n\n";
                     message += `*RANK GERAL:* ${rank_general.rank}º\n\n`; 
-                    message += rank_class.map((x) => { return `*${translateClassName(x.classe)}:* ${parseInt(x.rank) + 1}º` }).join("\n");
+                    message += rank_class.sort((a, b) => a.rank - b.rank).map((x) => { return `*${translateClassName(x.classe)}:* ${parseInt(x.rank) + 1}º` }).join("\n");
                     message += `\n\nTemos ${response.rank_general.length} membros no Rank BF1.`
 
                     msg.reply(message);
@@ -33,10 +33,15 @@ module.exports = (robot) => {
 	});
 	
 	robot.respond(/rank bf1 (.*)/i, (msg) => {
-        var cpitag = msg.envelope.user.profile.display_name;
-        //var cpitag = "CPI LeoLiraRJ"
-		var $class = msg.match[1];
-		showRank($class, msg, cpitag);
+		var cpitag = msg.envelope.user.profile.display_name;
+		
+		if(cpitag == ""){
+			msg.reply("Ops!... seu perfil não está configurado corretamente. No perfil do slack, preencha o campo [Display Name] com sua GamerTag e tente novamente.");
+			return;
+		}else{
+			var $class = Util.removeAccents(msg.match[1]);
+			showRank($class, msg, cpitag);
+		}
 	});
 
 	showRank = ($class, msg, cpitag) =>{
