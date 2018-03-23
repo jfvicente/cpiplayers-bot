@@ -18,7 +18,8 @@ const _msgInicial = (msg) => {
 		*passo a passo slack* : Retorna o link do PDF com o passo a passo
 		*noticias* : Retorna as ultimas 5 noticias sobre games
 		*meu rank bf1* : mostra a sua posição no rank bf1 geral e nas classes
-		*rank bf1 [classe ou geral]* : mostra todo o rank bf1 geral ou da classe escolhida`);
+		*rank bf1 [classe ou geral]* : mostra todo o rank bf1 geral ou da classe [assalto | medico | suporte | batedor | cavalaria | piloto | tanqueiro]
+		*meu clipe xbox* : mostra a ultima captura de video do xbox`);
 }
 
 
