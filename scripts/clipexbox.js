@@ -15,7 +15,9 @@ const urlTreta = "http://ec2-52-34-157-203.us-west-2.compute.amazonaws.com:3000/
 module.exports = (robot) =>{
 
     robot.respond(/meu clipe xbox/ig, (res) =>{
-        res.reply("Oh! Ceus, tenho que procurar nos meus registros. um minuto por favor....");
+        robot.adapter.client.web.chat.postEphemeral(res.message.room, "Oh! Ceus, tenho que procurar nos meus registros. um minuto por favor....", res.envelope.user.id, {as_user: true}); 
+
+        //res.reply("Oh! Ceus, tenho que procurar nos meus registros. um minuto por favor....");
         var cpitag = res.envelope.user.profile.display_name;
         http.get(urlTreta+encodeURIComponent(cpitag), (response) => {        
             let rawData = '';
@@ -30,7 +32,7 @@ module.exports = (robot) =>{
                     throw new Error();
               });                
         }).on('error', (e) => {
-            res.reply("Mestre, acho que estou com mal funcionamento, não consegui completar sua solicitação. Tente novamente.")
+            res.reply("Mestre, acho que estou com mal funcionamento, não consegui encontrar seu clipe. Tente novamente.")
         });              
     });
 
@@ -39,7 +41,8 @@ module.exports = (robot) =>{
             (err, clips) =>{
                 //handle response
                 if(clips){
-                    res.reply("Encontrei seu clipe, assim que o download terminar mando pra você...");
+                    robot.adapter.client.web.chat.postEphemeral(res.message.room, "Encontrei seu clipe, assim que o download terminar mando pra você...", res.envelope.user.id, {as_user: true}); 
+                    //res.reply("Encontrei seu clipe, assim que o download terminar mando pra você...");
                     var urlClip = clips[0].gameClipUris[0].uri;
                     var filename = `${xuid}.MP4`;
                     var title = clips[0].titleName;
@@ -57,7 +60,8 @@ module.exports = (robot) =>{
 
     uploadFileSlack = (title, filename, cpitag, res) =>{
         const filess = fs.createReadStream(`${dirFiles}${filename}`);
-        var upload = robot.adapter.client.web.files.upload(title, {file: filess, channels: res.message.room, initial_comment: "Pronto! seu clipe do Xbox @"+cpitag});
+        res.reply("Pronto! seu clipe do Xbox");
+        var upload = robot.adapter.client.web.files.upload(title, {file: filess, channels: res.message.room, initial_comment: cpitag });
 
         if(upload){
             fs.unlinkSync(`${dirFiles}${filename}`);

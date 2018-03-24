@@ -19,6 +19,8 @@ const _msgInicial = (msg) => {
 		*noticias* : Retorna as ultimas 5 noticias sobre games
 		*meu rank bf1* : mostra a sua posição no rank bf1 geral e nas classes
 		*rank bf1 [classe ou geral]* : mostra todo o rank bf1 geral ou da classe [assalto | medico | suporte | batedor | cavalaria | piloto | tanqueiro]
+		*rank pubg* : mostra o rank CPI do PUBG
+		*stats pubg* : mostra suas estatisticas no PUBG
 		*meu clipe xbox* : mostra a ultima captura de video do xbox`);
 }
 
