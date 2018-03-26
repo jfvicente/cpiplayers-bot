@@ -3,7 +3,7 @@
 		"Status": "CPI",
 		"Nome": "Ricardo",
 		"Gamer_Tag": "CPI Ric Vader",
-		"Cidade - Estado": "Barueri-sp",
+		"Cidade": "Barueri-sp",
 		"Telefone": "(11)982102880",
 		"Data_Aniversario": "3-1"
 	},
@@ -11,7 +11,7 @@
 		"Status": "CPI",
 		"Nome": "Thiago",
 		"Gamer_Tag": "CPI ThiagoG3",
-		"Cidade - Estado": "Sao Paulo-SP",
+		"Cidade": "Sao Paulo-SP",
 		"Telefone": "(11)99233-7063",
 		"Data_Aniversario": "3-1"
 	},
@@ -19,7 +19,7 @@
 		"Status": "CPI",
 		"Nome": "Oliver",
 		"Gamer_Tag": "CPI Zancul",
-		"Cidade - Estado": "São carlos-SP",
+		"Cidade": "São carlos-SP",
 		"Telefone": "(16)99786-3670",
 		"Data_Aniversario": "3-1"
 	},
@@ -27,7 +27,7 @@
 		"Status": "CPI",
 		"Nome": "Caio",
 		"Gamer_Tag": "CPI Camelo",
-		"Cidade - Estado": "Colombo-PR",
+		"Cidade": "Colombo-PR",
 		"Telefone": "(41)9875-8229",
 		"Data_Aniversario": "3-1"
 	},
@@ -35,7 +35,7 @@
 		"Status": "CPI",
 		"Nome": "Marcel",
 		"Gamer_Tag": "CPI Ferreira",
-		"Cidade - Estado": "Florianopolis-SC",
+		"Cidade": "Florianopolis-SC",
 		"Telefone": "(48)9800-9844",
 		"Data_Aniversario": "4-1"
 	},
@@ -43,7 +43,7 @@
 		"Status": "CPI",
 		"Nome": "Leandro Lavarias",
 		"Gamer_Tag": "CPI Dexter",
-		"Cidade - Estado": "Curitiba-PR",
+		"Cidade": "Curitiba-PR",
 		"Telefone": "(42)8855-2679",
 		"Data_Aniversario": "6-1"
 	},
@@ -51,7 +51,7 @@
 		"Status": "CPI",
 		"Nome": "Rodrigo",
 		"Gamer_Tag": "CPI RodiKrause",
-		"Cidade - Estado": "Colíder-MT",
+		"Cidade": "Colíder-MT",
 		"Telefone": "(66)9607-6680",
 		"Data_Aniversario": "7-1"
 	},
@@ -59,7 +59,7 @@
 		"Status": "CPI",
 		"Nome": "Daniel",
 		"Gamer_Tag": "CPI Dinamitte",
-		"Cidade - Estado": "Sao Paulo- SP",
+		"Cidade": "Sao Paulo-SP",
 		"Telefone": "(11)98650-7185",
 		"Data_Aniversario": "8-1"
 	},
@@ -67,7 +67,7 @@
 		"Status": "CPI",
 		"Nome": "Vitor",
 		"Gamer_Tag": "CPI Fulate",
-		"Cidade - Estado": "Campos dos Goytacazes",
+		"Cidade": "Campos dos Goytacazes-RJ",
 		"Telefone": "(22)99961-1590",
 		"Data_Aniversario": "12-1"
 	},
@@ -75,7 +75,7 @@
 		"Status": "CPI",
 		"Nome": "Bruno",
 		"Gamer_Tag": "CPI Miranda",
-		"Cidade - Estado": "Recife-PE",
+		"Cidade": "Recife-PE",
 		"Telefone": "(81)9153-1945",
 		"Data_Aniversario": "15-1"
 	},
@@ -83,7 +83,7 @@
 		"Status": "CPI",
 		"Nome": "Sidney",
 		"Gamer_Tag": "CPI Quakezin",
-		"Cidade - Estado": "Rio de 1eiro-RJ",
+		"Cidade": "Rio de Janeiro-RJ",
 		"Telefone": "(21)97684-7117",
 		"Data_Aniversario": "15-1"
 	},
@@ -91,7 +91,7 @@
 		"Status": "CPI",
 		"Nome": "Simao",
 		"Gamer_Tag": "CPI SimaoNeves",
-		"Cidade - Estado": "Divinopolis-MG",
+		"Cidade": "Divinopolis-MG",
 		"Telefone": "(37)9804-4956",
 		"Data_Aniversario": "22-1"
 	},
@@ -99,7 +99,7 @@
 		"Status": "CPI '",
 		"Nome": "Matheus",
 		"Gamer_Tag": "CPI Bonfim",
-		"Cidade - Estado": "Brasilia-DF",
+		"Cidade": "Brasilia-DF",
 		"Telefone": "(61)9296-9483",
 		"Data_Aniversario": "23-1"
 	},
@@ -107,7 +107,7 @@
 		"Status": "CPI '",
 		"Nome": "Ricardo",
 		"Gamer_Tag": "CPI SgtAnversa",
-		"Cidade - Estado": "Santa Maria-RS",
+		"Cidade": "Santa Maria-RS",
 		"Telefone": "(55)8162-6975",
 		"Data_Aniversario": "23-1"
 	},
@@ -115,7 +115,7 @@
 		"Status": "CPI",
 		"Nome": "Liran Ricardo",
 		"Gamer_Tag": "CPI Liranrick",
-		"Cidade - Estado": "Foz do Iguaçu - PR",
+		"Cidade": "Foz do Iguaçu-PR",
 		"Telefone": "(45) 99999-5602",
 		"Data_Aniversario": "26-1"
 	},
@@ -123,7 +123,7 @@
 		"Status": "CPI",
 		"Nome": "Amos Oliveira",
 		"Gamer_Tag": "CPI Ranca Tripa",
-		"Cidade - Estado": "Sao Paulo-SP",
+		"Cidade": "Sao Paulo-SP",
 		"Telefone": "(11)97990-7404",
 		"Data_Aniversario": "27-1"
 	},
@@ -131,7 +131,7 @@
 		"Status": "CPI",
 		"Nome": "Cássio",
 		"Gamer_Tag": "CPI Cassio7",
-		"Cidade - Estado": "Sao Paulo- SP",
+		"Cidade": "Sao Paulo-SP",
 		"Telefone": "(11)97726-1089",
 		"Data_Aniversario": "28-1"
 	},
@@ -139,7 +139,7 @@
 		"Status": "CPI",
 		"Nome": "Eduardo",
 		"Gamer_Tag": "CPI Petrus",
-		"Cidade - Estado": "Rio de 1eiro -RJ",
+		"Cidade": "Rio de Janeiro-RJ",
 		"Telefone": "(21)98107-5707",
 		"Data_Aniversario": "1-2"
 	},
@@ -147,7 +147,7 @@
 		"Status": "CPI",
 		"Nome": "Leonardo",
 		"Gamer_Tag": "CPI Optimus",
-		"Cidade - Estado": "Guarulhos -SP",
+		"Cidade": "Guarulhos-SP",
 		"Telefone": "(11)96875-5399",
 		"Data_Aniversario": "24-2"
 	},
@@ -155,7 +155,7 @@
 		"Status": "CPI",
 		"Nome": "João",
 		"Gamer_Tag": "CPI Jfvicente",
-		"Cidade - Estado": "São josé-SC",
+		"Cidade": "São josé-SC",
 		"Telefone": "(48)9184-3231",
 		"Data_Aniversario": "8-2"
 	},
@@ -163,7 +163,7 @@
 		"Status": "CPI",
 		"Nome": "Renan",
 		"Gamer_Tag": "CPI Chewie",
-		"Cidade - Estado": "Cubatao-SP",
+		"Cidade": "Cubatao-SP",
 		"Telefone": "(13)97419-3780",
 		"Data_Aniversario": "10-2"
 	},
@@ -171,7 +171,7 @@
 		"Status": "CPI",
 		"Nome": "Henrique",
 		"Gamer_Tag": "CPI Henrique",
-		"Cidade - Estado": "Brasilia-DF",
+		"Cidade": "Brasilia-DF",
 		"Telefone": "(61)8221-3719",
 		"Data_Aniversario": "11-2"
 	},
@@ -179,7 +179,7 @@
 		"Status": "CPI",
 		"Nome": "Joao",
 		"Gamer_Tag": "CPI Xaka",
-		"Cidade - Estado": "Porto Alegre-RS",
+		"Cidade": "Porto Alegre-RS",
 		"Telefone": "(51)9724-5543",
 		"Data_Aniversario": "13-2"
 	},
@@ -187,7 +187,7 @@
 		"Status": "CPI",
 		"Nome": "Joao",
 		"Gamer_Tag": "CPI JoaoPaulo",
-		"Cidade - Estado": "Conselheiro Lafaiete-MG",
+		"Cidade": "Conselheiro Lafaiete-MG",
 		"Telefone": "(31)9718-0497",
 		"Data_Aniversario": "14-2"
 	},
@@ -195,7 +195,7 @@
 		"Status": "CPI",
 		"Nome": "Daniel",
 		"Gamer_Tag": "CPI LazorBrazil",
-		"Cidade - Estado": "Sumaré-SP",
+		"Cidade": "Sumaré-SP",
 		"Telefone": "(19)99901-0311",
 		"Data_Aniversario": "15-2"
 	},
@@ -203,7 +203,7 @@
 		"Status": "CPI",
 		"Nome": "Everton",
 		"Gamer_Tag": "CPI Gen Freitas",
-		"Cidade - Estado": "Sao Leopoldo",
+		"Cidade": "Sao Leopoldo",
 		"Telefone": "(51)9880-6333",
 		"Data_Aniversario": "18-2"
 	},
@@ -211,7 +211,7 @@
 		"Status": "CPI",
 		"Nome": "Vitor",
 		"Gamer_Tag": "CPI Snice",
-		"Cidade - Estado": "Vicosa-MG",
+		"Cidade": "Vicosa-MG",
 		"Telefone": "(31)9765-1550",
 		"Data_Aniversario": "19-2"
 	},
@@ -219,7 +219,7 @@
 		"Status": "CPI",
 		"Nome": "Victor Lira",
 		"Gamer_Tag": "CPI VictorLira",
-		"Cidade - Estado": "Rio de 1eiro -RJ",
+		"Cidade": "Rio de Janeiro-RJ",
 		"Telefone": "(21)99832-1041",
 		"Data_Aniversario": "20-2"
 	},
@@ -227,7 +227,7 @@
 		"Status": "CPI",
 		"Nome": "Magno Moreira",
 		"Gamer_Tag": "CPI Marcolamds",
-		"Cidade - Estado": "Concordia - SC",
+		"Cidade": "Concordia-SC",
 		"Telefone": "(49)99209672",
 		"Data_Aniversario": "20-2"
 	},
@@ -235,7 +235,7 @@
 		"Status": "CPI",
 		"Nome": "Lucas",
 		"Gamer_Tag": "CPI TheKiller",
-		"Cidade - Estado": "Santa Isabel do Avai-PR",
+		"Cidade": "Santa Isabel do Avai-PR",
 		"Telefone": "(44)8832-9041",
 		"Data_Aniversario": "22-2"
 	},
@@ -243,7 +243,7 @@
 		"Status": "CPI",
 		"Nome": "Guilherme",
 		"Gamer_Tag": "CPI Zaroth",
-		"Cidade - Estado": "Rio de 1eiro -RJ",
+		"Cidade": "Rio de Janeiro-RJ",
 		"Telefone": "(21)96484-7894",
 		"Data_Aniversario": "24-2"
 	},
@@ -251,7 +251,7 @@
 		"Status": "CPI",
 		"Nome": "Henrique",
 		"Gamer_Tag": "CPI PedrogHED",
-		"Cidade - Estado": "Sao Paulo-SP",
+		"Cidade": "Sao Paulo-SP",
 		"Telefone": "(11)97088-9978",
 		"Data_Aniversario": "24-2"
 	},
@@ -259,7 +259,7 @@
 		"Status": "CPI",
 		"Nome": "Arthur",
 		"Gamer_Tag": "CPI KratosHM33",
-		"Cidade - Estado": "Varzea Grande-MT",
+		"Cidade": "Varzea Grande-MT",
 		"Telefone": "(65)9679-4062",
 		"Data_Aniversario": "25-2"
 	},
@@ -267,7 +267,7 @@
 		"Status": "CPI",
 		"Nome": "Cleiton",
 		"Gamer_Tag": "CPI Mustache",
-		"Cidade - Estado": "Santa Maria - SC",
+		"Cidade": "Santa Maria-SC",
 		"Telefone": "(41)9217-8152",
 		"Data_Aniversario": "25-2"
 	},
@@ -275,7 +275,7 @@
 		"Status": "CPI",
 		"Nome": "Maxwell",
 		"Gamer_Tag": "CPI MadMax",
-		"Cidade - Estado": "São Leopoldo - RS",
+		"Cidade": "São Leopoldo-RS",
 		"Telefone": "(51)8130-2767",
 		"Data_Aniversario": "25-2"
 	},
@@ -283,7 +283,7 @@
 		"Status": "CPI",
 		"Nome": "Felipe",
 		"Gamer_Tag": "CPI Taite",
-		"Cidade - Estado": "Londrina-PR",
+		"Cidade": "Londrina-PR",
 		"Telefone": "(43)9155-6779",
 		"Data_Aniversario": "28-2"
 	},
@@ -291,7 +291,7 @@
 		"Status": "CPI",
 		"Nome": "Tiago",
 		"Gamer_Tag": "CPI NunesSilva",
-		"Cidade - Estado": "Osasco-SP",
+		"Cidade": "Osasco-SP",
 		"Telefone": "(11)96992-2660",
 		"Data_Aniversario": "2-3"
 	},
@@ -299,7 +299,7 @@
 		"Status": "CPI",
 		"Nome": "Fabricio",
 		"Gamer_Tag": "CPI Kakashi",
-		"Cidade - Estado": "Fortaleza-CE",
+		"Cidade": "Fortaleza-CE",
 		"Telefone": "(85)8516-9820",
 		"Data_Aniversario": "3-3"
 	},
@@ -307,7 +307,7 @@
 		"Status": "CPI",
 		"Nome": "Leonardo",
 		"Gamer_Tag": "CPI LeoLirarj",
-		"Cidade - Estado": "Rio de 1eiro - RJ",
+		"Cidade": "Rio de Janeiro-RJ",
 		"Telefone": "(21)98841-1859",
 		"Data_Aniversario": "9-3"
 	},
@@ -315,7 +315,7 @@
 		"Status": "CPI",
 		"Nome": "Felipe",
 		"Gamer_Tag": "CPI Vieira",
-		"Cidade - Estado": "Carangola- MG",
+		"Cidade": "Carangola- MG",
 		"Telefone": "(32)9836-6492",
 		"Data_Aniversario": "9-3"
 	},
@@ -323,7 +323,7 @@
 		"Status": "CPI",
 		"Nome": "Leonardo",
 		"Gamer_Tag": "CPI Leleco",
-		"Cidade - Estado": "Sao Paulo-SP",
+		"Cidade": "Sao Paulo-SP",
 		"Telefone": "(11)97136-1981",
 		"Data_Aniversario": "10-3"
 	},
@@ -331,7 +331,7 @@
 		"Status": "CPI",
 		"Nome": "Eder",
 		"Gamer_Tag": "CPI Justiceiro",
-		"Cidade - Estado": "Sao Paulo-SP",
+		"Cidade": "Sao Paulo-SP",
 		"Telefone": "(11)956080353",
 		"Data_Aniversario": "12-3"
 	},
@@ -339,7 +339,7 @@
 		"Status": "CPI",
 		"Nome": "Celso",
 		"Gamer_Tag": "CPI Uehara",
-		"Cidade - Estado": "Sao Paulo-SP",
+		"Cidade": "Sao Paulo-SP",
 		"Telefone": "(11)96279-3099",
 		"Data_Aniversario": "13-3"
 	},
@@ -347,7 +347,7 @@
 		"Status": "CPI",
 		"Nome": "Riccardo",
 		"Gamer_Tag": "CPI Rocha91",
-		"Cidade - Estado": "Lapa-PR",
+		"Cidade": "Lapa-PR",
 		"Telefone": "(41)9924-5641",
 		"Data_Aniversario": "17-3"
 	},
@@ -355,7 +355,7 @@
 		"Status": "CPI",
 		"Nome": "Josemar",
 		"Gamer_Tag": "CPI Gauchu",
-		"Cidade - Estado": "Bom Principio-RS",
+		"Cidade": "Bom Principio-RS",
 		"Telefone": "(51)9877-1522",
 		"Data_Aniversario": "18-3"
 	},
@@ -363,7 +363,7 @@
 		"Status": "CPI",
 		"Nome": "Max",
 		"Gamer_Tag": "CPI Edimax",
-		"Cidade - Estado": "Louveira -SP",
+		"Cidade": "Louveira-SP",
 		"Telefone": "(19)99487-0633",
 		"Data_Aniversario": "20-3"
 	},
@@ -371,7 +371,7 @@
 		"Status": "CPI",
 		"Nome": "Divino",
 		"Gamer_Tag": "CPI Juninho R10",
-		"Cidade - Estado": "Uberaba - MG",
+		"Cidade": "Uberaba-MG",
 		"Telefone": "(34)9679-1330",
 		"Data_Aniversario": "23-3"
 	},
@@ -379,15 +379,15 @@
 		"Status": "CPI",
 		"Nome": "Emerson",
 		"Gamer_Tag": "CPI Zero",
-		"Cidade - Estado": "Itapecerica da Serra-SP",
+		"Cidade": "Itapecerica da Serra-SP",
 		"Telefone": "(11)95967-6600",
 		"Data_Aniversario": "28-3"
 	},
 	{
 		"Status": "CPI",
 		"Nome": "Sandro",
-		"Gamer_Tag": "CPI Gemakwalker (n ta no Grupo)",
-		"Cidade - Estado": "Santos-SP",
+		"Gamer_Tag": "CPI Gemakwalker",
+		"Cidade": "Santos-SP",
 		"Telefone": "(13)99194-2726",
 		"Data_Aniversario": "30-3"
 	},
@@ -395,7 +395,7 @@
 		"Status": "CPI",
 		"Nome": "Alison",
 		"Gamer_Tag": "CPI Macambira",
-		"Cidade - Estado": "Porto Seguro-BA",
+		"Cidade": "Porto Seguro-BA",
 		"Telefone": "(73)9116-4149",
 		"Data_Aniversario": "30-3"
 	},
@@ -403,7 +403,7 @@
 		"Status": "CPI",
 		"Nome": "Luan",
 		"Gamer_Tag": "CPI Millotach88",
-		"Cidade - Estado": "Mercedes -Buenos Aires",
+		"Cidade": "Mercedes -Buenos Aires",
 		"Telefone": "(54)93855064336",
 		"Data_Aniversario": "3-4"
 	},
@@ -411,15 +411,15 @@
 		"Status": "CPI",
 		"Nome": "Israel",
 		"Gamer_Tag": "CPI Israel",
-		"Cidade - Estado": "Florianopolis-SC",
+		"Cidade": "Florianopolis-SC",
 		"Telefone": "(48)8429-2067",
 		"Data_Aniversario": "4-4"
 	},
 	{
 		"Status": "CPI",
 		"Nome": "Leandro cavalcanti",
-		"Gamer_Tag": "CPI Warengine (nao ta no grupo)",
-		"Cidade - Estado": "São Paulo-SP",
+		"Gamer_Tag": "CPI Warengine",
+		"Cidade": "São Paulo-SP",
 		"Telefone": "(11)96284-0804",
 		"Data_Aniversario": "8-4"
 	},
@@ -427,7 +427,7 @@
 		"Status": "CPI",
 		"Nome": "Flavio",
 		"Gamer_Tag": "CPI Flavinho",
-		"Cidade - Estado": "Castelo-ES",
+		"Cidade": "Castelo-ES",
 		"Telefone": "(28)99996-2013",
 		"Data_Aniversario": "10-4"
 	},
@@ -435,7 +435,7 @@
 		"Status": "CPI",
 		"Nome": "Ademir",
 		"Gamer_Tag": "CPI Ajunior",
-		"Cidade - Estado": "Rio de 1eiro - RJ",
+		"Cidade": "Rio de Janeiro-RJ",
 		"Telefone": "(21)99838-5994",
 		"Data_Aniversario": "10-4"
 	},
@@ -443,7 +443,7 @@
 		"Status": "CPI",
 		"Nome": "Eliton",
 		"Gamer_Tag": "CPI Heavyshot",
-		"Cidade - Estado": "Sorocaba-SP",
+		"Cidade": "Sorocaba-SP",
 		"Telefone": "(15)99113-8242",
 		"Data_Aniversario": "12-4"
 	},
@@ -451,7 +451,7 @@
 		"Status": "CPI",
 		"Nome": "Matheus",
 		"Gamer_Tag": "CPI Punisher",
-		"Cidade - Estado": "Jundiaí_SP",
+		"Cidade": "Jundiaí_SP",
 		"Telefone": "(11)98656-1401",
 		"Data_Aniversario": "18-4"
 	},
@@ -459,7 +459,7 @@
 		"Status": "CPI",
 		"Nome": "Fabricio",
 		"Gamer_Tag": "CPI Silencer",
-		"Cidade - Estado": "Viamão-RS",
+		"Cidade": "Viamão-RS",
 		"Telefone": "(51)8158-9913",
 		"Data_Aniversario": "24-4"
 	},
@@ -467,7 +467,7 @@
 		"Status": "CPI",
 		"Nome": "Rafa",
 		"Gamer_Tag": "CPI RafacostaBR",
-		"Cidade - Estado": "Mesquita-RJ",
+		"Cidade": "Mesquita-RJ",
 		"Telefone": "(21)99302-6450",
 		"Data_Aniversario": "24-4"
 	},
@@ -475,7 +475,7 @@
 		"Status": "CPI",
 		"Nome": "Leonardo Baccan",
 		"Gamer_Tag": "CPI Leobaccan",
-		"Cidade - Estado": "Bauru - SP",
+		"Cidade": "Bauru-SP",
 		"Telefone": "(14)997532004",
 		"Data_Aniversario": "24-4"
 	},
@@ -483,7 +483,7 @@
 		"Status": "CPI",
 		"Nome": "Daniel",
 		"Gamer_Tag": "CPI Daniel",
-		"Cidade - Estado": "Uberlandia-MG",
+		"Cidade": "Uberlandia-MG",
 		"Telefone": "(34)9200-6479",
 		"Data_Aniversario": "25-4"
 	},
@@ -491,7 +491,7 @@
 		"Status": "CPI",
 		"Nome": "Rodrigo",
 		"Gamer_Tag": "CPI Guigobrandi",
-		"Cidade - Estado": "Osasco-SP",
+		"Cidade": "Osasco-SP",
 		"Telefone": "(11)97681-9393",
 		"Data_Aniversario": "28-4"
 	},
@@ -499,7 +499,7 @@
 		"Status": "CPI",
 		"Nome": "Tabajara Barros",
 		"Gamer_Tag": "CPI Kennedy",
-		"Cidade - Estado": "Araraquara-SP",
+		"Cidade": "Araraquara-SP",
 		"Telefone": "(16)99781-8718",
 		"Data_Aniversario": "29-4"
 	},
@@ -507,7 +507,7 @@
 		"Status": "CPI",
 		"Nome": "Joao",
 		"Gamer_Tag": "CPI System32",
-		"Cidade - Estado": "Porto Alegre-RS",
+		"Cidade": "Porto Alegre-RS",
 		"Telefone": "(51)8180-8241",
 		"Data_Aniversario": "2-5"
 	},
@@ -515,7 +515,7 @@
 		"Status": "CPI",
 		"Nome": "Anderson",
 		"Gamer_Tag": "CPI Bad Luck",
-		"Cidade - Estado": "Sao Paulo-SP",
+		"Cidade": "Sao Paulo-SP",
 		"Telefone": "(11)95934-5700",
 		"Data_Aniversario": "3-5"
 	},
@@ -523,7 +523,7 @@
 		"Status": "CPI",
 		"Nome": "Marcos",
 		"Gamer_Tag": "CPI MacKiller",
-		"Cidade - Estado": "Valinhos-SP",
+		"Cidade": "Valinhos-SP",
 		"Telefone": "(19)99390-5345",
 		"Data_Aniversario": "13-5"
 	},
@@ -531,7 +531,7 @@
 		"Status": "CPI",
 		"Nome": "Anderson",
 		"Gamer_Tag": "CPI Abati",
-		"Cidade - Estado": "Foz do iguaçu-PR",
+		"Cidade": "Foz do iguaçu-PR",
 		"Telefone": "(45)9972-0639",
 		"Data_Aniversario": "14-5"
 	},
@@ -539,7 +539,7 @@
 		"Status": "CPI",
 		"Nome": "Bernardo",
 		"Gamer_Tag": "CPI Sludgy",
-		"Cidade - Estado": "Rio de 1eiro-RJ",
+		"Cidade": "Rio de Janeiro-RJ",
 		"Telefone": "(21)97995-1086",
 		"Data_Aniversario": "14-5"
 	},
@@ -547,7 +547,7 @@
 		"Status": "CPI",
 		"Nome": "Teylor",
 		"Gamer_Tag": "CPI Martins",
-		"Cidade - Estado": "São Leopoldo_RS",
+		"Cidade": "São Leopoldo_RS",
 		"Telefone": "(51)9414-3347",
 		"Data_Aniversario": "17-5"
 	},
@@ -555,7 +555,7 @@
 		"Status": "CPI",
 		"Nome": "Carlos",
 		"Gamer_Tag": "CPI Petico",
-		"Cidade - Estado": "Votorantim-SP",
+		"Cidade": "Votorantim-SP",
 		"Telefone": "(15)99758-6808",
 		"Data_Aniversario": "18-5"
 	},
@@ -563,7 +563,7 @@
 		"Status": "CPI",
 		"Nome": "Cristiano",
 		"Gamer_Tag": "CPI Encanador",
-		"Cidade - Estado": "Sao Gonçalo-RJ",
+		"Cidade": "Sao Gonçalo-RJ",
 		"Telefone": "(21)97581-6824",
 		"Data_Aniversario": "18-5"
 	},
@@ -571,7 +571,7 @@
 		"Status": "CPI",
 		"Nome": "Felipe",
 		"Gamer_Tag": "CPI FelipeKing",
-		"Cidade - Estado": "Sao Bernardo do campo-SP",
+		"Cidade": "Sao Bernardo do campo-SP",
 		"Telefone": "(11)96531-1393",
 		"Data_Aniversario": "19-5"
 	},
@@ -579,7 +579,7 @@
 		"Status": "CPI",
 		"Nome": "Helio",
 		"Gamer_Tag": "CPI Helius",
-		"Cidade - Estado": "Sao Paulo- SP",
+		"Cidade": "Sao Paulo-SP",
 		"Telefone": "(11)96063-0451",
 		"Data_Aniversario": "25-5"
 	},
@@ -587,7 +587,7 @@
 		"Status": "CPI",
 		"Nome": "Wagner",
 		"Gamer_Tag": "CPI Wagner47",
-		"Cidade - Estado": "Sao Bernardo do campo-SP",
+		"Cidade": "Sao Bernardo do campo-SP",
 		"Telefone": "(11)96622-4613",
 		"Data_Aniversario": "27-5"
 	},
@@ -595,7 +595,7 @@
 		"Status": "CPI",
 		"Nome": "Vínicius",
 		"Gamer_Tag": "CPI ViniCarrera",
-		"Cidade - Estado": "Sao Bernardo-SP",
+		"Cidade": "Sao Bernardo-SP",
 		"Telefone": "(11)95176-6738",
 		"Data_Aniversario": "27-5"
 	},
@@ -603,7 +603,7 @@
 		"Status": "CPI",
 		"Nome": "John",
 		"Gamer_Tag": "CPI Joohn",
-		"Cidade - Estado": "Fortaleza-CE",
+		"Cidade": "Fortaleza-CE",
 		"Telefone": "(85)8617-7025",
 		"Data_Aniversario": "28-5"
 	},
@@ -611,7 +611,7 @@
 		"Status": "CPI",
 		"Nome": "Ricardo",
 		"Gamer_Tag": "CPI Tangent",
-		"Cidade - Estado": "Juiz de Fora-MG",
+		"Cidade": "Juiz de Fora-MG",
 		"Telefone": "(34)8893-2569",
 		"Data_Aniversario": "29-5"
 	},
@@ -619,7 +619,7 @@
 		"Status": "CPI",
 		"Nome": "Gilson",
 		"Gamer_Tag": "CPI Amendoim",
-		"Cidade - Estado": "Rio de 1eiro-RJ",
+		"Cidade": "Rio de Janeiro-RJ",
 		"Telefone": "(21)97660-5688",
 		"Data_Aniversario": "31-5"
 	},
@@ -627,7 +627,7 @@
 		"Status": "CPI",
 		"Nome": "Vinicius",
 		"Gamer_Tag": "CPI ViniDL",
-		"Cidade - Estado": "Sumaré - SP",
+		"Cidade": "Sumaré-SP",
 		"Telefone": "(19)98905-8077",
 		"Data_Aniversario": "2-6"
 	},
@@ -635,7 +635,7 @@
 		"Status": "CPI",
 		"Nome": "Luiz/Dylo",
 		"Gamer_Tag": "CPI Dylo",
-		"Cidade - Estado": "Tatuaté-SP",
+		"Cidade": "Tatuaté-SP",
 		"Telefone": "(12)99148-0153",
 		"Data_Aniversario": "3-6"
 	},
@@ -643,7 +643,7 @@
 		"Status": "CPI",
 		"Nome": "Heverton",
 		"Gamer_Tag": "CPI Sevenfold",
-		"Cidade - Estado": "Cariacica-ES",
+		"Cidade": "Cariacica-ES",
 		"Telefone": "(27)99795-5619",
 		"Data_Aniversario": "4-6"
 	},
@@ -651,7 +651,7 @@
 		"Status": "CPI",
 		"Nome": "Fran",
 		"Gamer_Tag": "CPI Furiosa",
-		"Cidade - Estado": "Florianopolis-SC",
+		"Cidade": "Florianopolis-SC",
 		"Telefone": "(48)9670-8801",
 		"Data_Aniversario": "10-6"
 	},
@@ -659,7 +659,7 @@
 		"Status": "CPI",
 		"Nome": "Felipe",
 		"Gamer_Tag": "CPI Felipe",
-		"Cidade - Estado": "Rio claro-SP",
+		"Cidade": "Rio claro-SP",
 		"Telefone": "(19)98147-9116",
 		"Data_Aniversario": "13-6"
 	},
@@ -667,7 +667,7 @@
 		"Status": "CPI",
 		"Nome": "Marcos",
 		"Gamer_Tag": "CPI Van Helsing",
-		"Cidade - Estado": "Joao Pessoa",
+		"Cidade": "Joao Pessoa",
 		"Telefone": "(83)8825-6701",
 		"Data_Aniversario": "13-6"
 	},
@@ -675,7 +675,7 @@
 		"Status": "CPI",
 		"Nome": "Wandinho",
 		"Gamer_Tag": "CPI Balao",
-		"Cidade - Estado": "Araraquaria-SP",
+		"Cidade": "Araraquaria-SP",
 		"Telefone": "(16)981295200",
 		"Data_Aniversario": "14-6"
 	},
@@ -683,7 +683,7 @@
 		"Status": "CPI",
 		"Nome": "João Paulo",
 		"Gamer_Tag": "CPI Macedo",
-		"Cidade - Estado": "Florianopolis-SC",
+		"Cidade": "Florianopolis-SC",
 		"Telefone": "(48)9672-9360",
 		"Data_Aniversario": "16-6"
 	},
@@ -691,7 +691,7 @@
 		"Status": "CPI",
 		"Nome": "Matheus Reis",
 		"Gamer_Tag": "CPI Section",
-		"Cidade - Estado": "Sao Jose dos Campos - SP",
+		"Cidade": "Sao Jose dos Campos-SP",
 		"Telefone": "((12)98858-0349",
 		"Data_Aniversario": "16-6"
 	},
@@ -699,7 +699,7 @@
 		"Status": "CPI",
 		"Nome": "Felipe",
 		"Gamer_Tag": "CPI Cave1ra",
-		"Cidade - Estado": "Guarulhos-SP",
+		"Cidade": "Guarulhos-SP",
 		"Telefone": "(11)95959-3137",
 		"Data_Aniversario": "19-6"
 	},
@@ -707,7 +707,7 @@
 		"Status": "CPI",
 		"Nome": "Galileu Junior",
 		"Gamer_Tag": "CPI Galileujr",
-		"Cidade - Estado": "Palhoça-SC",
+		"Cidade": "Palhoça-SC",
 		"Telefone": "(48)8415-0807",
 		"Data_Aniversario": "21-6"
 	},
@@ -715,7 +715,7 @@
 		"Status": "CPI",
 		"Nome": "Bruno",
 		"Gamer_Tag": "CPI Macaxeira",
-		"Cidade - Estado": "Recife-PE",
+		"Cidade": "Recife-PE",
 		"Telefone": "(81)9671-2791",
 		"Data_Aniversario": "22-6"
 	},
@@ -723,7 +723,7 @@
 		"Status": "CPI",
 		"Nome": "Vinicius",
 		"Gamer_Tag": "CPI Vinissu",
-		"Cidade - Estado": "Rio de 1eiro -RJ",
+		"Cidade": "Rio de Janeiro-RJ",
 		"Telefone": "(21)98261-1800",
 		"Data_Aniversario": "22-6"
 	},
@@ -731,7 +731,7 @@
 		"Status": "CPI",
 		"Nome": "Matheus",
 		"Gamer_Tag": "CPI BiribAtomik",
-		"Cidade - Estado": "Porto Velho-RO",
+		"Cidade": "Porto Velho-RO",
 		"Telefone": "(69)9929-0001",
 		"Data_Aniversario": "23-6"
 	},
@@ -739,7 +739,7 @@
 		"Status": "CPI",
 		"Nome": "Leandro",
 		"Gamer_Tag": "CPI Leandro",
-		"Cidade - Estado": "Criciúma-SC",
+		"Cidade": "Criciúma-SC",
 		"Telefone": "(48)9915-7473",
 		"Data_Aniversario": "23-6"
 	},
@@ -747,7 +747,7 @@
 		"Status": "CPI",
 		"Nome": "Diego",
 		"Gamer_Tag": "CPI Vamp Black",
-		"Cidade - Estado": "Sorocaba_SP",
+		"Cidade": "Sorocaba_SP",
 		"Telefone": "(21)98670-3689",
 		"Data_Aniversario": "23-6"
 	},
@@ -755,7 +755,7 @@
 		"Status": "CPI",
 		"Nome": "Marcio",
 		"Gamer_Tag": "CPI Bordinadas",
-		"Cidade - Estado": "Rio de 1eiro -RJ",
+		"Cidade": "Rio de Janeiro-RJ",
 		"Telefone": "(21)98949-1538",
 		"Data_Aniversario": "24-6"
 	},
@@ -763,7 +763,7 @@
 		"Status": "CPI",
 		"Nome": "Rafael",
 		"Gamer_Tag": "CPI RafaelPG",
-		"Cidade - Estado": "Brasília-DF",
+		"Cidade": "Brasília-DF",
 		"Telefone": "(61)9988-1207",
 		"Data_Aniversario": "26-6"
 	},
@@ -771,7 +771,7 @@
 		"Status": "CPI",
 		"Nome": "Alessandro",
 		"Gamer_Tag": "CPI Alessandro",
-		"Cidade - Estado": "Matelandia-PR",
+		"Cidade": "Matelandia-PR",
 		"Telefone": "(45)9808-4189",
 		"Data_Aniversario": "28-6"
 	},
@@ -779,7 +779,7 @@
 		"Status": "CPI",
 		"Nome": "Luiz Felipe",
 		"Gamer_Tag": "CPI Felipe",
-		"Cidade - Estado": "Santa Gertrudes- SP",
+		"Cidade": "Santa Gertrudes-SP",
 		"Telefone": "(19)981479116",
 		"Data_Aniversario": "30-6"
 	},
@@ -787,7 +787,7 @@
 		"Status": "CPI",
 		"Nome": "Ronaldo",
 		"Gamer_Tag": "CPI Bonotto",
-		"Cidade - Estado": "Arapongas-PR",
+		"Cidade": "Arapongas-PR",
 		"Telefone": "(43)9116-7886",
 		"Data_Aniversario": "1-7"
 	},
@@ -795,7 +795,7 @@
 		"Status": "CPI",
 		"Nome": "Fabio Augusto",
 		"Gamer_Tag": "CPI Quase nada",
-		"Cidade - Estado": "Natal-RN",
+		"Cidade": "Natal-RN",
 		"Telefone": "(84)8803-1980",
 		"Data_Aniversario": "10-7"
 	},
@@ -803,7 +803,7 @@
 		"Status": "CPI",
 		"Nome": "Jeison",
 		"Gamer_Tag": "CPI Jeison",
-		"Cidade - Estado": "Caxias do Sul- RS",
+		"Cidade": "Caxias do Sul- RS",
 		"Telefone": "(54)9162-0578",
 		"Data_Aniversario": "13-7"
 	},
@@ -811,7 +811,7 @@
 		"Status": "CPI",
 		"Nome": "Anderson",
 		"Gamer_Tag": "CPI Professor",
-		"Cidade - Estado": "Curitiba-PR",
+		"Cidade": "Curitiba-PR",
 		"Telefone": "(41)9900-3831",
 		"Data_Aniversario": "13-7"
 	},
@@ -819,7 +819,7 @@
 		"Status": "CPI",
 		"Nome": "Leonardo",
 		"Gamer_Tag": "CPI Leo Diniz2",
-		"Cidade - Estado": "Belo Vale- MG",
+		"Cidade": "Belo Vale- MG",
 		"Telefone": "(31)9285-3452",
 		"Data_Aniversario": "14-7"
 	},
@@ -827,7 +827,7 @@
 		"Status": "CPI",
 		"Nome": "Kleber",
 		"Gamer_Tag": "CPI Kleber",
-		"Cidade - Estado": "Camaragibe-PE",
+		"Cidade": "Camaragibe-PE",
 		"Telefone": "(81)99746-8893",
 		"Data_Aniversario": "18-7"
 	},
@@ -835,7 +835,7 @@
 		"Status": "CPI",
 		"Nome": "Jonathan",
 		"Gamer_Tag": "CPI JonathanRJ",
-		"Cidade - Estado": "Sao Gonçalo-RJ",
+		"Cidade": "Sao Gonçalo-RJ",
 		"Telefone": "(21)98080-3299",
 		"Data_Aniversario": "19-7"
 	},
@@ -843,7 +843,7 @@
 		"Status": "CPI",
 		"Nome": "Luan",
 		"Gamer_Tag": "CPI Shavo",
-		"Cidade - Estado": "Joinville-SC",
+		"Cidade": "Joinville-SC",
 		"Telefone": "(47)9776-4760",
 		"Data_Aniversario": "19-7"
 	},
@@ -851,7 +851,7 @@
 		"Status": "CPI",
 		"Nome": "Guilherme",
 		"Gamer_Tag": "CPI Tokaia",
-		"Cidade - Estado": "Goiania-GO",
+		"Cidade": "Goiania-GO",
 		"Telefone": "(62)9901-1806",
 		"Data_Aniversario": "22-7"
 	},
@@ -859,7 +859,7 @@
 		"Status": "CPI",
 		"Nome": "Rafael Souza",
 		"Gamer_Tag": "CPI Raffeex",
-		"Cidade - Estado": "São Paulo-SP",
+		"Cidade": "São Paulo-SP",
 		"Telefone": "(49)1768047-4980",
 		"Data_Aniversario": "22-7"
 	},
@@ -867,7 +867,7 @@
 		"Status": "CPI",
 		"Nome": "Jean Carlos Tomaz",
 		"Gamer_Tag": "CPI Tomaz",
-		"Cidade - Estado": "Pres. Prudente- SP",
+		"Cidade": "Pres. Prudente-SP",
 		"Telefone": "(18)99180-7373",
 		"Data_Aniversario": "26-7"
 	},
@@ -875,7 +875,7 @@
 		"Status": "CPI",
 		"Nome": "Adriano",
 		"Gamer_Tag": "CPI Adriulos",
-		"Cidade - Estado": "Santos-SP",
+		"Cidade": "Santos-SP",
 		"Telefone": "(13)99709-2810",
 		"Data_Aniversario": "26-7"
 	},
@@ -883,7 +883,7 @@
 		"Status": "CPI",
 		"Nome": "Thiago Nunes",
 		"Gamer_Tag": "CPI Daileon",
-		"Cidade - Estado": "Nova Iguaçu -RJ",
+		"Cidade": "Nova Iguaçu -RJ",
 		"Telefone": "(21)99307-5489",
 		"Data_Aniversario": "27-7"
 	},
@@ -891,7 +891,7 @@
 		"Status": "CPI",
 		"Nome": "Igor Leite",
 		"Gamer_Tag": "CPI Corleone",
-		"Cidade - Estado": "São Paulo-SP",
+		"Cidade": "São Paulo-SP",
 		"Telefone": "(11)98793-3503",
 		"Data_Aniversario": "29-7"
 	},
@@ -899,7 +899,7 @@
 		"Status": "CPI",
 		"Nome": "Daniel",
 		"Gamer_Tag": "CPI Camarao",
-		"Cidade - Estado": "Santos-SP",
+		"Cidade": "Santos-SP",
 		"Telefone": "(13)99108-0716",
 		"Data_Aniversario": "30-7"
 	},
@@ -907,7 +907,7 @@
 		"Status": "CPI",
 		"Nome": "Leandro",
 		"Gamer_Tag": "CPI Morfinati",
-		"Cidade - Estado": "Curitiba-PR",
+		"Cidade": "Curitiba-PR",
 		"Telefone": "(41)9554-8299",
 		"Data_Aniversario": "3-8"
 	},
@@ -915,7 +915,7 @@
 		"Status": "CPI",
 		"Nome": "Éder torres",
 		"Gamer_Tag": "CPI EderB77",
-		"Cidade - Estado": "Sta Isabel do Ivaí-PR",
+		"Cidade": "Sta Isabel do Ivaí-PR",
 		"Telefone": "(44)9968-0829",
 		"Data_Aniversario": "4-8"
 	},
@@ -923,7 +923,7 @@
 		"Status": "CPI",
 		"Nome": "Cleyton",
 		"Gamer_Tag": "CPI Nascimento",
-		"Cidade - Estado": "Curitiba-PR",
+		"Cidade": "Curitiba-PR",
 		"Telefone": "(41)9680-8924",
 		"Data_Aniversario": "5-8"
 	},
@@ -931,7 +931,7 @@
 		"Status": "CPI",
 		"Nome": "Márcio",
 		"Gamer_Tag": "CPI R3t4rd4d0",
-		"Cidade - Estado": "São Jose dos Campos-SP",
+		"Cidade": "São Jose dos Campos-SP",
 		"Telefone": "(11)94757-1221",
 		"Data_Aniversario": "5-8"
 	},
@@ -939,7 +939,7 @@
 		"Status": "CPI",
 		"Nome": "Gustavo",
 		"Gamer_Tag": "CPI TazoJaba",
-		"Cidade - Estado": "Araraquara-SP",
+		"Cidade": "Araraquara-SP",
 		"Telefone": "(16)98170-1283",
 		"Data_Aniversario": "7-8"
 	},
@@ -947,7 +947,7 @@
 		"Status": "CPI",
 		"Nome": "Edson",
 		"Gamer_Tag": "CPI Edson tosta",
-		"Cidade - Estado": "Sao paulo_SP",
+		"Cidade": "Sao paulo_SP",
 		"Telefone": "(11)94126-1811",
 		"Data_Aniversario": "11-8"
 	},
@@ -955,7 +955,7 @@
 		"Status": "CPI",
 		"Nome": "Lucas",
 		"Gamer_Tag": "CPI SiriusBlack",
-		"Cidade - Estado": "Poá-SP",
+		"Cidade": "Poá-SP",
 		"Telefone": "(11)98679-7760",
 		"Data_Aniversario": "13-8"
 	},
@@ -963,7 +963,7 @@
 		"Status": "CPI",
 		"Nome": "Lucas",
 		"Gamer_Tag": "CPI RedHood",
-		"Cidade - Estado": "Sao Jose dos Campos-SP",
+		"Cidade": "Sao Jose dos Campos-SP",
 		"Telefone": "(12)98816-1266",
 		"Data_Aniversario": "14-8"
 	},
@@ -971,7 +971,7 @@
 		"Status": "CPI",
 		"Nome": "Vicente",
 		"Gamer_Tag": "CPI VinceMaul74",
-		"Cidade - Estado": "Santos - SP",
+		"Cidade": "Santos-SP",
 		"Telefone": "(13) 98125-1974",
 		"Data_Aniversario": "17-8"
 	},
@@ -979,7 +979,7 @@
 		"Status": "CPI",
 		"Nome": "Jonatas",
 		"Gamer_Tag": "CPI Azrail",
-		"Cidade - Estado": "Tiete- SP",
+		"Cidade": "Tiete-SP",
 		"Telefone": "(15)99792-8713",
 		"Data_Aniversario": "21-8"
 	},
@@ -987,7 +987,7 @@
 		"Status": "CPI",
 		"Nome": "Henrique",
 		"Gamer_Tag": "CPI Buyfla",
-		"Cidade - Estado": "Nova Iguacu-RJ",
+		"Cidade": "Nova Iguacu-RJ",
 		"Telefone": "(21)98736-7988",
 		"Data_Aniversario": "22-8"
 	},
@@ -995,7 +995,7 @@
 		"Status": "CPI",
 		"Nome": "Éder Álvares",
 		"Gamer_Tag": "CPI Eddie",
-		"Cidade - Estado": "Balneário Gaivota-SC",
+		"Cidade": "Balneário Gaivota-SC",
 		"Telefone": "(48)9943-9201",
 		"Data_Aniversario": "26-8"
 	},
@@ -1003,15 +1003,15 @@
 		"Status": "CPI",
 		"Nome": "Fabiano",
 		"Gamer_Tag": "CPI Kurama",
-		"Cidade - Estado": "Cubatão-SP",
+		"Cidade": "Cubatão-SP",
 		"Telefone": "(13)99175-0425",
 		"Data_Aniversario": "1-9"
 	},
 	{
 		"Status": "CPI",
 		"Nome": "Willian",
-		"Gamer_Tag": "CPI WillianHS(N ta no Grupo)",
-		"Cidade - Estado": "salto-SP",
+		"Gamer_Tag": "CPI WillianHS",
+		"Cidade": "salto-SP",
 		"Telefone": "(11)99725-1838",
 		"Data_Aniversario": "1-9"
 	},
@@ -1019,7 +1019,7 @@
 		"Status": "CPI",
 		"Nome": "Alexandre",
 		"Gamer_Tag": "CPI Goodpower",
-		"Cidade - Estado": "Macapa-AM",
+		"Cidade": "Macapa-AM",
 		"Telefone": "(96)9907-0770",
 		"Data_Aniversario": "11-9"
 	},
@@ -1027,7 +1027,7 @@
 		"Status": "CPI",
 		"Nome": "Leandro",
 		"Gamer_Tag": "CPI Lebaccan76",
-		"Cidade - Estado": "Bauru-SP",
+		"Cidade": "Bauru-SP",
 		"Telefone": "(14)98111-3505",
 		"Data_Aniversario": "12-9"
 	},
@@ -1035,7 +1035,7 @@
 		"Status": "CPI",
 		"Nome": "Joao",
 		"Gamer_Tag": "CPI Bochini",
-		"Cidade - Estado": "Itu-SP",
+		"Cidade": "Itu-SP",
 		"Telefone": "(11)99919-7155",
 		"Data_Aniversario": "13-9"
 	},
@@ -1043,7 +1043,7 @@
 		"Status": "CPI",
 		"Nome": "Guilherme",
 		"Gamer_Tag": "CPI GuilhermyBT",
-		"Cidade - Estado": "Sao Goçalo-RJ",
+		"Cidade": "Sao Goçalo-RJ",
 		"Telefone": "(21)97996-9577",
 		"Data_Aniversario": "14-9"
 	},
@@ -1051,7 +1051,7 @@
 		"Status": "CPI",
 		"Nome": "Leandro",
 		"Gamer_Tag": "CPI LeoFreitas",
-		"Cidade - Estado": "Rio de 1eiro -RJ",
+		"Cidade": "Rio de Janeiro-RJ",
 		"Telefone": "(21)98996-3121",
 		"Data_Aniversario": "14-9"
 	},
@@ -1059,7 +1059,7 @@
 		"Status": "CPI",
 		"Nome": "Kluivert",
 		"Gamer_Tag": "CPI But",
-		"Cidade - Estado": "Goiania-GO",
+		"Cidade": "Goiania-GO",
 		"Telefone": "(62)9178-8416",
 		"Data_Aniversario": "16-9"
 	},
@@ -1067,7 +1067,7 @@
 		"Status": "CPI",
 		"Nome": "Matheus",
 		"Gamer_Tag": "CPI Neo",
-		"Cidade - Estado": "Porto Alegre-RS",
+		"Cidade": "Porto Alegre-RS",
 		"Telefone": "(51)8489-5070",
 		"Data_Aniversario": "16-9"
 	},
@@ -1075,7 +1075,7 @@
 		"Status": "CPI",
 		"Nome": "Carlos",
 		"Gamer_Tag": "CPI Fairer",
-		"Cidade - Estado": "Rio de 1eiro-RJ",
+		"Cidade": "Rio de Janeiro-RJ",
 		"Telefone": "(21)97476-5428",
 		"Data_Aniversario": "17-9"
 	},
@@ -1083,7 +1083,7 @@
 		"Status": "CPI",
 		"Nome": "Diego Henrique",
 		"Gamer_Tag": "Dinokoshow",
-		"Cidade - Estado": "Vitoria de santo antao -PE",
+		"Cidade": "Vitoria de santo antao -PE",
 		"Telefone": "(81)9739-3361",
 		"Data_Aniversario": "20-9"
 	},
@@ -1091,7 +1091,7 @@
 		"Status": "CPI",
 		"Nome": "Carlos",
 		"Gamer_Tag": "CPI Carlos",
-		"Cidade - Estado": "Rio do Sul-SC",
+		"Cidade": "Rio do Sul-SC",
 		"Telefone": "(47)8479-0580",
 		"Data_Aniversario": "22-9"
 	},
@@ -1099,7 +1099,7 @@
 		"Status": "CPI",
 		"Nome": "Bonifácio Amaral",
 		"Gamer_Tag": "CPI Bonicop",
-		"Cidade - Estado": "Gravatá-PE",
+		"Cidade": "Gravatá-PE",
 		"Telefone": "(81)9126-0434",
 		"Data_Aniversario": "26-9"
 	},
@@ -1107,7 +1107,7 @@
 		"Status": "CPI",
 		"Nome": "Gilberto",
 		"Gamer_Tag": "CPI Giba Vieira​",
-		"Cidade - Estado": "Bauru-SP",
+		"Cidade": "Bauru-SP",
 		"Telefone": "(14)99135-1808",
 		"Data_Aniversario": "27-9"
 	},
@@ -1115,7 +1115,7 @@
 		"Status": "CPI",
 		"Nome": "Rafael",
 		"Gamer_Tag": "CPI Coconut",
-		"Cidade - Estado": "Santa Maria-RS",
+		"Cidade": "Santa Maria-RS",
 		"Telefone": "(51)9771-8491",
 		"Data_Aniversario": "27-9"
 	},
@@ -1123,7 +1123,7 @@
 		"Status": "CPI",
 		"Nome": "Lucas",
 		"Gamer_Tag": "CPI LucasSky64",
-		"Cidade - Estado": "Aracaju-SE",
+		"Cidade": "Aracaju-SE",
 		"Telefone": "(79)9909-3471",
 		"Data_Aniversario": "29-9"
 	},
@@ -1131,7 +1131,7 @@
 		"Status": "CPI",
 		"Nome": "Vagner",
 		"Gamer_Tag": "CPI DarthVagner",
-		"Cidade - Estado": "Sao Paulo- SP",
+		"Cidade": "Sao Paulo-SP",
 		"Telefone": "(11)98375-1330",
 		"Data_Aniversario": "29-9"
 	},
@@ -1139,7 +1139,7 @@
 		"Status": "CPI",
 		"Nome": "Max",
 		"Gamer_Tag": "CPI Maxwns",
-		"Cidade - Estado": "Pindamonhangaba-SP",
+		"Cidade": "Pindamonhangaba-SP",
 		"Telefone": "(12)98262-4251",
 		"Data_Aniversario": "2-10"
 	},
@@ -1147,7 +1147,7 @@
 		"Status": "CPI",
 		"Nome": "Raphael",
 		"Gamer_Tag": "CPI FireSmith",
-		"Cidade - Estado": "Rio de 1eiro-RJ",
+		"Cidade": "Rio de Janeiro-RJ",
 		"Telefone": "(21)966323354",
 		"Data_Aniversario": "5-10"
 	},
@@ -1155,7 +1155,7 @@
 		"Status": "CPI",
 		"Nome": "Jóse",
 		"Gamer_Tag": "CPI Titan",
-		"Cidade - Estado": "Areia-PB",
+		"Cidade": "Areia-PB",
 		"Telefone": "(83)9924-8893",
 		"Data_Aniversario": "6-10"
 	},
@@ -1163,7 +1163,7 @@
 		"Status": "CPI",
 		"Nome": "Marcio",
 		"Gamer_Tag": "CPI Healer",
-		"Cidade - Estado": "Tubarao-SC",
+		"Cidade": "Tubarao-SC",
 		"Telefone": "(48)9941-8539",
 		"Data_Aniversario": "10-10"
 	},
@@ -1171,7 +1171,7 @@
 		"Status": "CPI",
 		"Nome": "Breno",
 		"Gamer_Tag": "CPI Brenorocha",
-		"Cidade - Estado": "Barbacena-MG",
+		"Cidade": "Barbacena-MG",
 		"Telefone": "(32)8440-0392",
 		"Data_Aniversario": "15-10"
 	},
@@ -1179,7 +1179,7 @@
 		"Status": "CPI",
 		"Nome": "Magno",
 		"Gamer_Tag": "CPI Magno Vaz",
-		"Cidade - Estado": "Olinda-PE",
+		"Cidade": "Olinda-PE",
 		"Telefone": "(81)8896-1610",
 		"Data_Aniversario": "16-10"
 	},
@@ -1187,7 +1187,7 @@
 		"Status": "CPI",
 		"Nome": "Marcos",
 		"Gamer_Tag": "CPI Marcossgbm",
-		"Cidade - Estado": "Vitoria-ES",
+		"Cidade": "Vitoria-ES",
 		"Telefone": "(27)98822-1090",
 		"Data_Aniversario": "24-10"
 	},
@@ -1195,7 +1195,7 @@
 		"Status": "CPI",
 		"Nome": "Adriano",
 		"Gamer_Tag": "CPI Uzumaki",
-		"Cidade - Estado": "Sao Paulo - SP",
+		"Cidade": "Sao Paulo-SP",
 		"Telefone": "(11)94182-5656",
 		"Data_Aniversario": "25-10"
 	},
@@ -1203,7 +1203,7 @@
 		"Status": "CPI",
 		"Nome": "Wallison",
 		"Gamer_Tag": "CPI Soareslivee",
-		"Cidade - Estado": "Barbacena-MG",
+		"Cidade": "Barbacena-MG",
 		"Telefone": "(32)8407-0575",
 		"Data_Aniversario": "26-10"
 	},
@@ -1211,7 +1211,7 @@
 		"Status": "CPI",
 		"Nome": "Reynaldo",
 		"Gamer_Tag": "CPI Naldo Scott",
-		"Cidade - Estado": "Taubaté-SP",
+		"Cidade": "Taubaté-SP",
 		"Telefone": "(12)99636-4997",
 		"Data_Aniversario": "29-10"
 	},
@@ -1219,7 +1219,7 @@
 		"Status": "CPI",
 		"Nome": "Alexandre",
 		"Gamer_Tag": "CPI Alexandre",
-		"Cidade - Estado": "Cerquilho-SP",
+		"Cidade": "Cerquilho-SP",
 		"Telefone": "(15)99139-8772",
 		"Data_Aniversario": "30-10"
 	},
@@ -1227,7 +1227,7 @@
 		"Status": "CPI",
 		"Nome": "Gabriel Alves",
 		"Gamer_Tag": "CPI AlvesIG",
-		"Cidade - Estado": "Curitiba-PR",
+		"Cidade": "Curitiba-PR",
 		"Telefone": "(41)9931-0037",
 		"Data_Aniversario": "3-11"
 	},
@@ -1235,7 +1235,7 @@
 		"Status": "CPI",
 		"Nome": "Leandro pessoa",
 		"Gamer_Tag": "CPI Mandrake",
-		"Cidade - Estado": "Rio de 1eiro-RJ",
+		"Cidade": "Rio de Janeiro-RJ",
 		"Telefone": "(21)99801-6639",
 		"Data_Aniversario": "3-11"
 	},
@@ -1243,7 +1243,7 @@
 		"Status": "CPI",
 		"Nome": "Leonardo",
 		"Gamer_Tag": "CPI Panzer ice",
-		"Cidade - Estado": "Rio de 1eiro-RJ",
+		"Cidade": "Rio de Janeiro-RJ",
 		"Telefone": "(21)97236-4728",
 		"Data_Aniversario": "10-11"
 	},
@@ -1251,7 +1251,7 @@
 		"Status": "CPI",
 		"Nome": "Charles",
 		"Gamer_Tag": "CPI BlackFire",
-		"Cidade - Estado": "Itajai-SC",
+		"Cidade": "Itajai-SC",
 		"Telefone": "(47)9919-2103",
 		"Data_Aniversario": "12-11"
 	},
@@ -1259,7 +1259,7 @@
 		"Status": "CPI",
 		"Nome": "Brehmer",
 		"Gamer_Tag": "CPI Brehmer",
-		"Cidade - Estado": "Tobias Barreto -SE",
+		"Cidade": "Tobias Barreto -SE",
 		"Telefone": "(79)9860-5950",
 		"Data_Aniversario": "17-11"
 	},
@@ -1267,7 +1267,7 @@
 		"Status": "CPI",
 		"Nome": "Presley",
 		"Gamer_Tag": "CPI Presley",
-		"Cidade - Estado": "Sao Paulo-SP",
+		"Cidade": "Sao Paulo-SP",
 		"Telefone": "(11)98434-1850",
 		"Data_Aniversario": "18-11"
 	},
@@ -1275,7 +1275,7 @@
 		"Status": "CPI",
 		"Nome": "Thiago",
 		"Gamer_Tag": "CPI Emotion",
-		"Cidade - Estado": "Viçosa-MG",
+		"Cidade": "Viçosa-MG",
 		"Telefone": "(31)9569-4996",
 		"Data_Aniversario": "20-11"
 	},
@@ -1283,7 +1283,7 @@
 		"Status": "CPI",
 		"Nome": "Robson",
 		"Gamer_Tag": "CPI RobsonOsp",
-		"Cidade - Estado": "Rio de 1eiro-RJ",
+		"Cidade": "Rio de Janeiro-RJ",
 		"Telefone": "(21)99707-0126",
 		"Data_Aniversario": "21-11"
 	},
@@ -1291,7 +1291,7 @@
 		"Status": "CPI",
 		"Nome": "Wilson",
 		"Gamer_Tag": "CPI ThugLife",
-		"Cidade - Estado": "Viçosa-MG",
+		"Cidade": "Viçosa-MG",
 		"Telefone": "(31)9423-0721",
 		"Data_Aniversario": "21-11"
 	},
@@ -1299,7 +1299,7 @@
 		"Status": "CPI",
 		"Nome": "Leonardo brito",
 		"Gamer_Tag": "CPI Jutisfox",
-		"Cidade - Estado": "Osasco-SP",
+		"Cidade": "Osasco-SP",
 		"Telefone": "(91)8156- 7946",
 		"Data_Aniversario": "23-11"
 	},
@@ -1307,7 +1307,7 @@
 		"Status": "CPI",
 		"Nome": "Samuel",
 		"Gamer_Tag": "CPI RambuBaiano",
-		"Cidade - Estado": "Vitoria da conquista-BA",
+		"Cidade": "Vitoria da conquista-BA",
 		"Telefone": "(77)8832-8317",
 		"Data_Aniversario": "23-11"
 	},
@@ -1315,7 +1315,7 @@
 		"Status": "CPI",
 		"Nome": "Samuel Costa",
 		"Gamer_Tag": "CPI Winter",
-		"Cidade - Estado": "boca Raton- Florida",
+		"Cidade": "boca Raton- Florida",
 		"Telefone": "1(561)360-7524",
 		"Data_Aniversario": "27-11"
 	},
@@ -1323,7 +1323,7 @@
 		"Status": "CPI",
 		"Nome": "Dacio",
 		"Gamer_Tag": "CPI DacioGalaxy",
-		"Cidade - Estado": "sao Paulo- SP",
+		"Cidade": "sao Paulo-SP",
 		"Telefone": "(11)98634-6836",
 		"Data_Aniversario": "30-11"
 	},
@@ -1331,7 +1331,7 @@
 		"Status": "CPI",
 		"Nome": "Josue",
 		"Gamer_Tag": "CPI Omega Rugal",
-		"Cidade - Estado": "Florianopolis-SC",
+		"Cidade": "Florianopolis-SC",
 		"Telefone": "(48)998087005",
 		"Data_Aniversario": "12-12"
 	},
@@ -1339,7 +1339,7 @@
 		"Status": "CPI",
 		"Nome": "Diego Marques",
 		"Gamer_Tag": "CPI SGT Dimp",
-		"Cidade - Estado": "Sao Paulo- SP",
+		"Cidade": "Sao Paulo-SP",
 		"Telefone": "(31)8805-3018",
 		"Data_Aniversario": "16-12"
 	},
@@ -1347,15 +1347,15 @@
 		"Status": "CPI",
 		"Nome": "Flavio Luiz",
 		"Gamer_Tag": "CPI FlavioJedi",
-		"Cidade - Estado": "Nilopis_RJ",
+		"Cidade": "Nilopis_RJ",
 		"Telefone": "(21)96432-7359",
 		"Data_Aniversario": "19-12"
 	},
 	{
 		"Status": "CPI",
 		"Nome": "Ravilo",
-		"Gamer_Tag": "CPI Ravilopes/ CPI Ozymandias",
-		"Cidade - Estado": "Manaus-AM",
+		"Gamer_Tag": "CPI Ravilopes",
+		"Cidade": "Manaus-AM",
 		"Telefone": "(92)9483-1053",
 		"Data_Aniversario": "20-12"
 	},
@@ -1363,7 +1363,7 @@
 		"Status": "CPI",
 		"Nome": "Rafael",
 		"Gamer_Tag": "CPI Platina",
-		"Cidade - Estado": "Belo Horizonte _MG",
+		"Cidade": "Belo Horizonte _MG",
 		"Telefone": "(31)7565-3286",
 		"Data_Aniversario": "21-12"
 	},
@@ -1371,7 +1371,7 @@
 		"Status": "CPI",
 		"Nome": "Andrei",
 		"Gamer_Tag": "CPI AndreiCap",
-		"Cidade - Estado": "Itapiranga-SC",
+		"Cidade": "Itapiranga-SC",
 		"Telefone": "(49)9905-4246",
 		"Data_Aniversario": "23-12"
 	},
@@ -1379,7 +1379,7 @@
 		"Status": "CPI",
 		"Nome": "Wallace",
 		"Gamer_Tag": "CPI Siqueira",
-		"Cidade - Estado": "Duque de Caxias-RJ",
+		"Cidade": "Duque de Caxias-RJ",
 		"Telefone": "(21)98288-6812",
 		"Data_Aniversario": "23-12"
 	},
@@ -1387,7 +1387,7 @@
 		"Status": "CPI",
 		"Nome": "Rodrigo",
 		"Gamer_Tag": "CPI RodKiller",
-		"Cidade - Estado": "Manaus-AM",
+		"Cidade": "Manaus-AM",
 		"Telefone": "(92)9119-2700",
 		"Data_Aniversario": "24-12"
 	},
@@ -1395,7 +1395,7 @@
 		"Status": "CPI",
 		"Nome": "Bruno",
 		"Gamer_Tag": "CPI LordVader",
-		"Cidade - Estado": "Rio de 1eiro - RJ",
+		"Cidade": "Rio de Janeiro-RJ",
 		"Telefone": "(21)98670-3689",
 		"Data_Aniversario": "26-12"
 	},
@@ -1403,7 +1403,7 @@
 		"Status": "CPI",
 		"Nome": "Gustavo",
 		"Gamer_Tag": "CPI Gustavo",
-		"Cidade - Estado": "Tatuí-SP",
+		"Cidade": "Tatuí-SP",
 		"Telefone": "(15)99778-4455",
 		"Data_Aniversario": "26-12"
 	},
@@ -1411,7 +1411,7 @@
 		"Status": "CPI",
 		"Nome": "Higor",
 		"Gamer_Tag": "CPI Carrera",
-		"Cidade - Estado": "Sao Bernardo-SP",
+		"Cidade": "Sao Bernardo-SP",
 		"Telefone": "(11)95370-6624",
 		"Data_Aniversario": "30-12"
 	},
@@ -1419,7 +1419,7 @@
 		"Status": "CPI",
 		"Nome": "Anderson",
 		"Gamer_Tag": "CPI NewEra",
-		"Cidade - Estado": "Jundiaí-SP",
+		"Cidade": "Jundiaí-SP",
 		"Telefone": "(11)97401-5165",
 		"Data_Aniversario": "30-12"
 	},
@@ -1427,7 +1427,7 @@
 		"Status": "CPI",
 		"Nome": "Giovani",
 		"Gamer_Tag": "CPI GioSartori",
-		"Cidade - Estado": "Garibaldi-RS",
+		"Cidade": "Garibaldi-RS",
 		"Telefone": "(54)9645-4314",
 		"Data_Aniversario": "31-12"
 	},
@@ -1435,7 +1435,7 @@
 		"Status": "Recruta",
 		"Nome": "Andriel",
 		"Gamer_Tag": "Xx Andriel xX",
-		"Cidade - Estado": "Manaus - AM",
+		"Cidade": "Manaus-AM",
 		"Telefone": "(92)9469-9466",
 		"Data_Aniversario": "14-8"
 	},
@@ -1443,7 +1443,7 @@
 		"Status": "Recruta",
 		"Nome": "Fabio",
 		"Gamer_Tag": "Fabinholeo",
-		"Cidade - Estado": "Blumenau-SC",
+		"Cidade": "Blumenau-SC",
 		"Telefone": "(47)9266-3667",
 		"Data_Aniversario": "28-8"
 	},
@@ -1451,7 +1451,7 @@
 		"Status": "Recruta",
 		"Nome": "Junior Parra",
 		"Gamer_Tag": "JnrParra",
-		"Cidade - Estado": "Ribeirão Preto - SP",
+		"Cidade": "Ribeirão Preto-SP",
 		"Telefone": "(16)994071403",
 		"Data_Aniversario": "4-10"
 	},
@@ -1459,7 +1459,7 @@
 		"Status": "Recruta",
 		"Nome": "Bruno",
 		"Gamer_Tag": "Player B13",
-		"Cidade - Estado": "Campina Grande-PB",
+		"Cidade": "Campina Grande-PB",
 		"Telefone": "(83)996216818",
 		"Data_Aniversario": "20-10"
 	},
@@ -1467,7 +1467,7 @@
 		"Status": "Recr.-Kids",
 		"Nome": "Rafael",
 		"Gamer_Tag": "Zenikbrake",
-		"Cidade - Estado": "Brasilia - DF",
+		"Cidade": "Brasilia-DF",
 		"Telefone": "(61)9977-9730",
 		"Data_Aniversario": "28-8"
 	},
@@ -1475,7 +1475,7 @@
 		"Status": "Recr.-Kids",
 		"Nome": "Gustavo",
 		"Gamer_Tag": "Brachielwheat5",
-		"Cidade - Estado": "Iturama-MG",
+		"Cidade": "Iturama-MG",
 		"Telefone": "(34)9251-3447",
 		"Data_Aniversario": "14-9"
 	},
@@ -1483,7 +1483,7 @@
 		"Status": "Recruta",
 		"Nome": "Carlos Eduardo",
 		"Gamer_Tag": "CaduGameplaysYT",
-		"Cidade - Estado": "Mirassol - SP",
+		"Cidade": "Mirassol-SP",
 		"Telefone": "(15)981538678",
 		"Data_Aniversario": "5-12"
 	},
@@ -1491,7 +1491,7 @@
 		"Status": "Recruta",
 		"Nome": "Lucas Costa",
 		"Gamer_Tag": "Play Boy xXx99",
-		"Cidade - Estado": "Jacutinga - MG",
+		"Cidade": "Jacutinga-MG",
 		"Telefone": "(35)91566584",
 		"Data_Aniversario": "18-1"
 	},
@@ -1499,7 +1499,7 @@
 		"Status": "Recruta",
 		"Nome": "Gabriel Ferreira",
 		"Gamer_Tag": "mineiro72",
-		"Cidade - Estado": "Juiz de Fora - MG",
+		"Cidade": "Juiz de Fora-MG",
 		"Telefone": "(32)88116837",
 		"Data_Aniversario": "18-1"
 	},
@@ -1507,7 +1507,7 @@
 		"Status": "Recruta",
 		"Nome": "Gustavo",
 		"Gamer_Tag": "ExprolCEblak",
-		"Cidade - Estado": "Santa Catarina - Florianopolis",
+		"Cidade": "Florianopolis-SC",
 		"Telefone": "(48)88284265",
 		"Data_Aniversario": "18-2"
 	},
@@ -1515,7 +1515,7 @@
 		"Status": "Recruta",
 		"Nome": "Tiago",
 		"Gamer_Tag": "tiago1740alves8",
-		"Cidade - Estado": "São Paulo - SP",
+		"Cidade": "São Paulo-SP",
 		"Telefone": "(14)998432497",
 		"Data_Aniversario": "23-2"
 	},
@@ -1523,7 +1523,7 @@
 		"Status": "Recruta",
 		"Nome": "Sérgio Bahia",
 		"Gamer_Tag": "Sérgio dudu",
-		"Cidade - Estado": "São José do Rio Preto - SP",
+		"Cidade": "São José do Rio Preto-SP",
 		"Telefone": "(17)991111993",
 		"Data_Aniversario": "11-3"
 	},
@@ -1531,7 +1531,7 @@
 		"Status": "Recruta",
 		"Nome": "Merson",
 		"Gamer_Tag": "BollotaGoldBoy",
-		"Cidade - Estado": "Fortaleza - Ceara",
+		"Cidade": "Fortaleza-CE",
 		"Telefone": "(85)86603900",
 		"Data_Aniversario": "11-3"
 	},
@@ -1539,7 +1539,7 @@
 		"Status": "Recruta",
 		"Nome": "Raul",
 		"Gamer_Tag": "rrastiga",
-		"Cidade - Estado": "Brasilia - DF",
+		"Cidade": "Brasilia-DF",
 		"Telefone": "(61)91257547",
 		"Data_Aniversario": "13-3"
 	},
@@ -1547,7 +1547,7 @@
 		"Status": "Recruta",
 		"Nome": "Fernando Barbaglia",
 		"Gamer_Tag": "fbarbaglia",
-		"Cidade - Estado": "Pirassununga - SP",
+		"Cidade": "Pirassununga-SP",
 		"Telefone": "(19)981032934",
 		"Data_Aniversario": "13-3"
 	},
@@ -1555,7 +1555,7 @@
 		"Status": "Recruta",
 		"Nome": "Denis",
 		"Gamer_Tag": "JeneDenis",
-		"Cidade - Estado": "Indaiatuba - SP",
+		"Cidade": "Indaiatuba-SP",
 		"Telefone": "(11)961351828",
 		"Data_Aniversario": "15-3"
 	},
@@ -1563,7 +1563,7 @@
 		"Status": "Recruta",
 		"Nome": "Vinícius Mendes",
 		"Gamer_Tag": "SkyExpert",
-		"Cidade - Estado": "Joinvile - SC",
+		"Cidade": "Joinvile-SC",
 		"Telefone": "(47)99132290",
 		"Data_Aniversario": "15-3"
 	},
@@ -1571,7 +1571,7 @@
 		"Status": "CPI",
 		"Nome": "Ana",
 		"Gamer_Tag": "CPI AnaKharo",
-		"Cidade - Estado": "Florianópolis-SC",
+		"Cidade": "Florianópolis-SC",
 		"Telefone": "(48)9643-2282",
 		"Data_Aniversario": "22-2"
 	},
@@ -1579,7 +1579,7 @@
 		"Status": "CPI",
 		"Nome": "Bruno",
 		"Gamer_Tag": "CPI Amorim",
-		"Cidade - Estado": "Rio de 1eiro-RJ",
+		"Cidade": "Rio de Janeiro-RJ",
 		"Telefone": "(21)96863-6301",
 		"Data_Aniversario": "2-4"
 	},
@@ -1587,7 +1587,7 @@
 		"Status": "CPI",
 		"Nome": "Bernardo",
 		"Gamer_Tag": "CPI Sludgy",
-		"Cidade - Estado": "Rio de 1eiro-RJ",
+		"Cidade": "Rio de Janeiro-RJ",
 		"Telefone": "(21)97995-1086",
 		"Data_Aniversario": "14-5"
 	},
@@ -1595,7 +1595,7 @@
 		"Status": "CPI",
 		"Nome": "Antoniel",
 		"Gamer_Tag": "CPI Kallahari",
-		"Cidade - Estado": "Valinhos-SP",
+		"Cidade": "Valinhos-SP",
 		"Telefone": "(19)97122-2829",
 		"Data_Aniversario": "26-5"
 	},
@@ -1603,7 +1603,7 @@
 		"Status": "CPI",
 		"Nome": "matheus",
 		"Gamer_Tag": "CPI Sartorio",
-		"Cidade - Estado": "Boa vista-RR",
+		"Cidade": "Boa vista-RR",
 		"Telefone": "(95)8104-0737",
 		"Data_Aniversario": "28-6"
 	},
@@ -1611,7 +1611,7 @@
 		"Status": "CPI",
 		"Nome": "Fernando",
 		"Gamer_Tag": "CPI FBorrego",
-		"Cidade - Estado": "Americana-SP",
+		"Cidade": "Americana-SP",
 		"Telefone": "(19)99301-0696",
 		"Data_Aniversario": "29-7"
 	},
@@ -1619,15 +1619,15 @@
 		"Status": "CPI",
 		"Nome": "Igor",
 		"Gamer_Tag": "CPI IgorMarinho",
-		"Cidade - Estado": "Nova Iguaçu-RJ",
+		"Cidade": "Nova Iguaçu-RJ",
 		"Telefone": "(21)98237-7013",
 		"Data_Aniversario": "24-8"
 	},
 	{
 		"Status": "CPI",
 		"Nome": "Carlos",
-		"Gamer_Tag": "CPI Hollywood(n ta Grupo)",
-		"Cidade - Estado": "Paranagua-PR",
+		"Gamer_Tag": "CPI Hollywood",
+		"Cidade": "Paranagua-PR",
 		"Telefone": "(41)9268-4414",
 		"Data_Aniversario": "12-10"
 	},
@@ -1635,7 +1635,7 @@
 		"Status": "CPI",
 		"Nome": "Alexandre Marcelino",
 		"Gamer_Tag": "CPI Timing328",
-		"Cidade - Estado": "Niteroi-rj",
+		"Cidade": "Niteroi-RJ",
 		"Telefone": "(21)99956-0566",
 		"Data_Aniversario": "10-9"
 	},
@@ -1643,11 +1643,8 @@
 		"Status": "CPI",
 		"Nome": "Paulo Bastos",
 		"Gamer_Tag": "CPI PauLWalker",
-		"Cidade - Estado": "Manaus-AM",
+		"Cidade": "Manaus-AM",
 		"Telefone": "(92)99249-3360",
 		"Data_Aniversario": "11-9"
-	},
-	{
-		"Status": ""
 	}
 ]
