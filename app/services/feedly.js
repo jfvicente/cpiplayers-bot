@@ -1,6 +1,8 @@
 const ACCESS_TOKEN = process.env.FEEDLY_ACCESS_TOKEN;
 const STREAM_ID = "user/c7e22790-a4cb-46f4-b602-06117af18929/category/Games";
-const URL = `https://cloud.feedly.com/v3/streams/contents?streamId=${STREAM_ID}&count=5`;
+var hour = new Date().getHours();
+const URL = `https://feedly.com/v3/mixes/contents?streamId=${STREAM_ID}&count=5&hours=${hour}&backfill=true&boostMustRead=true&unreadOnly=true`;
+
 
 const Feedly = {
     getNews: msg => new Promise((resolve, reject) =>{   
