@@ -35,5 +35,5 @@ const _getNewsCron = (msg) =>{
 module.exports = (robot) =>{
     robot.respond(/noticias/i,_getNews);
 
-    new cronJob('0 8,14,20 * * *', () => _getNewsCron(robot), null, true, 'America/Sao_Paulo');
+    new cronJob('0 8,12,18,22 * * *', () => _getNewsCron(robot), null, true, 'America/Sao_Paulo');
 }
