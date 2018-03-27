@@ -30,12 +30,13 @@ module.exports = (robot) =>{
                     if(obj){
                         ca.subscribe(`channel:${obj.id}:update`, data => {
                             //console.log(data);
-                            if(data.online != undefined)
-                                if(data.online)
-                                    robot.messageRoom(channelName, `\nO Mestre ${cpitag} está fazendo uma transmissão pelo Mixer, acompanhem!!!\n<https://mixer.com/${cpitag.replace(" ", "_")}|https://mixer.com/${cpitag.replace(" ", "_")}>`);
-                                
-                                if(!data.online)
-                                    robot.messageRoom(channelName, `:dissapointed: Ah! que pena... ${cpitag} terminou a transmissão no Mixer. Mas vocês podem ver as ultimas transmissões gravadas.\n<https://mixer.com/${cpitag.replace(" ", "_")}|https://mixer.com/${cpitag.replace(" ", "_")}>`);
+                                if(data.online != undefined){
+                                    if(data.online)
+                                        robot.messageRoom(channelName, `\nO Mestre ${cpitag} está fazendo uma transmissão pelo Mixer, acompanhem!!!\n<https://mixer.com/${cpitag.replace(" ", "_")}|https://mixer.com/${cpitag.replace(" ", "_")}>`);
+                                    
+                                    if(data.online == false)
+                                        robot.messageRoom(channelName, `:disappointed: Ah! que pena... ${cpitag} terminou a transmissão no Mixer. Mas vocês podem ver as ultimas transmissões gravadas.\n<https://mixer.com/${cpitag.replace(" ", "_")}|https://mixer.com/${cpitag.replace(" ", "_")}>`);
+                                }
                             });
                     }
                 }
