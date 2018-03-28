@@ -9,7 +9,7 @@ const https = require('https');
 
 Carina.WebSocket = ws;
 const ca = new Carina({ isBot: true }).open();
-const channelName = 'c-3po-learning'; 
+const channelName = 'geral'; 
 
 process.removeAllListeners();
 ca.setMaxListeners(Infinity);
@@ -32,10 +32,10 @@ module.exports = (robot) =>{
                             //console.log(data);
                                 if(data.online != undefined){
                                     if(data.online)
-                                        robot.messageRoom(channelName, `\nO Mestre ${cpitag} está fazendo uma transmissão pelo Mixer, acompanhem!!!\n<https://mixer.com/${cpitag.replace(" ", "_")}|https://mixer.com/${cpitag.replace(" ", "_")}>`);
+                                        robot.messageRoom(channelName, `\n${cpitag} está tranmitindo pelo Mixer...\n<https://mixer.com/${cpitag.replace(" ", "_")}|Assistir a transmissão :tv:}>`);
                                     
                                     if(data.online == false)
-                                        robot.messageRoom(channelName, `:disappointed: Ah! que pena... ${cpitag} terminou a transmissão no Mixer. Mas vocês podem ver as ultimas transmissões gravadas.\n<https://mixer.com/${cpitag.replace(" ", "_")}|https://mixer.com/${cpitag.replace(" ", "_")}>`);
+                                        robot.messageRoom(channelName, `${cpitag} parou de transmitir pelo Mixer... :disappointed:\n<https://mixer.com/${cpitag.replace(" ", "_")}|https://mixer.com/${cpitag.replace(" ", "_")}>`);
                                 }
                             });
                     }
@@ -43,5 +43,4 @@ module.exports = (robot) =>{
             });
         }).on('error', error => console.log(error));
     })
-
 }

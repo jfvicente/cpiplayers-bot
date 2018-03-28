@@ -25,7 +25,7 @@ module.exports = (robot) =>{
     });
 
     robot.hear(/milharal/i, (msg) =>{
-        msg.reply("Oh! Ceus, esse termo me faz lembrar das histórias do CPI VinceMaul... \n_Crianças do milho tem que morreeeeeerrr!!!_  :skull: \nhttps://media.giphy.com/media/NQAd7YLSctrvW/giphy.gif")
+        msg.reply("\n_Crianças do milho tem que morreeeeeerrr!!!_  :skull: \nhttps://media.giphy.com/media/NQAd7YLSctrvW/giphy.gif")
     });
 
     robot.hear(/lebaccan|lebacan/i, (msg) =>{
