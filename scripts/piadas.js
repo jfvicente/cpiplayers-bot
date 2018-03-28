@@ -10,8 +10,8 @@ module.exports = (robot) =>{
         msg.reply("Ai Pai Paaaaaaaaaara!!!!.. :dancer:")
     });
 
-    robot.hear(/ban|banir|banido/ig, (msg) =>{
-        msg.reply("O Imperador está aguardando a sua visita.... hahahahahahaha....\nhttps://gph.is/2pe183G")
+    robot.hear(/ban\b|banir|banido/ig, (msg) =>{
+        msg.reply("Sua solicitação foi enviada ao Imperador... hahahahahahaha....\nhttps://gph.is/2pe183G")
     });
 
     robot.hear(/abraao/ig, (msg) =>{
@@ -32,4 +32,14 @@ module.exports = (robot) =>{
         var termos = ["https://cdn.cnn.com/cnnnext/dam/assets/140721120124-lionel-messi-0721-horizontal-large-gallery.jpg", "Lebaccan! Lebaccan! Lebaccan!"]
         msg.reply(msg.random(termos));
     });
+
+    robot.hear(/bom dia/ig, (msg) =>{
+        var termos = ["Bom dia Mestre!..", "Bom dia!", "Tenha um otimo dia padawan.", "Já Chega de BOM DIAAAA!!!!... \nBrincadeira, Bom dia! "];
+        msg.reply(msg.random(termos));
+    });
+
+    robot.hear(/ferreira/i, (msg) =>{
+        var termos = ["https://media.giphy.com/media/e8ojIgE5pyr2U/giphy.gif", "http://gph.is/2sXCTMi", "http://gph.is/2x4VGrM"];
+        msg.reply("Oh! Céus mais um acidente\n"+msg.random(termos));
+    });    
 }
