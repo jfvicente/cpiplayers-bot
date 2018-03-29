@@ -1,8 +1,6 @@
 // Description:
 //   Piadas e termos internos para ajudar a interação com @c-3po
 //
-// Commands:
-//   c-3po noticias - Mostra as ultimas 5 noticias sobre games
 
 module.exports = (robot) =>{
 

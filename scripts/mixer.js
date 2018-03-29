@@ -16,7 +16,7 @@ ca.setMaxListeners(Infinity);
 process.setMaxListeners(Infinity);
 
 module.exports = (robot) =>{        
-    //let i = 0;
+
     data.filter(x => x.Status == "CPI").forEach((membro, idx, arr) => {
         let cpitag = membro.Gamer_Tag;
         let URL = `https://mixer.com/api/v1/channels/${cpitag.replace(" ", "_")}?fields=id`;
@@ -32,10 +32,10 @@ module.exports = (robot) =>{
                             //console.log(data);
                                 if(data.online != undefined){
                                     if(data.online)
-                                        robot.messageRoom(channelName, `\n${cpitag} está tranmitindo pelo Mixer...\n<https://mixer.com/${cpitag.replace(" ", "_")}|Assistir a transmissão :tv:}>`);
+                                        robot.messageRoom(channelName, `\n${cpitag} está transmitindo pelo Mixer...\n<https://mixer.com/${cpitag.replace(" ", "_")}|Assistir a transmissão :tv:>`);
                                     
                                     if(data.online == false)
-                                        robot.messageRoom(channelName, `${cpitag} parou de transmitir pelo Mixer... :disappointed:\n<https://mixer.com/${cpitag.replace(" ", "_")}|https://mixer.com/${cpitag.replace(" ", "_")}>`);
+                                        robot.messageRoom(channelName, `${cpitag} terminou a transmissão pelo Mixer... :disappointed:\n<https://mixer.com/${cpitag.replace(" ", "_")}|https://mixer.com/${cpitag.replace(" ", "_")}>`);
                                 }
                             });
                     }

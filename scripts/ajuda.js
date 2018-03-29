@@ -1,7 +1,7 @@
 //  Description:
 //    Mostra os comandos que o @c-3po suporta
 //  Commands: 
-// 		@c-3po ajuda
+// 		@c-3po ajuda - Mostra todos os comandos que o bot pode fazer
 
 module.exports = (robot) => {
   robot.respond(/ajuda/i, (msg) =>{
