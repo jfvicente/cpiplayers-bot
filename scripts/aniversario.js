@@ -39,7 +39,7 @@ module.exports = (robot) => {
                 message += "\n\nParabéns mestre, que a força esteja com você!!!"
 
             //msg.messageRoom('geral', message);
-            robot.adapter.client.web.chat.postMessage('geral', message)
+            robot.adapter.client.web.chat.postMessage('geral', message, {as_user: true})
                 .then(result =>{
                     robot.adapter.client.web.reactions.add("clap", {channel:result.channel, timestamp:result.message.ts});
                 });

@@ -314,10 +314,18 @@
 	{
 		"Status": "CPI",
 		"Nome": "Felipe",
-		"Gamer_Tag": "CPI Vieira",
-		"Cidade": "Carangola- MG",
+		"Gamer_Tag": "CPI VEXP",
+		"Cidade": "Carangola-MG",
 		"Telefone": "(32)9836-6492",
 		"Data_Aniversario": "9-3"
+	},
+	{
+		"Status": "CPI",
+		"Nome": "Felipe",
+		"Gamer_Tag": "VEXP",
+		"Cidade": "Carangola-MG",
+		"Telefone": "(32)9836-6492",
+		"Data_Aniversario": null
 	},
 	{
 		"Status": "CPI",
@@ -403,7 +411,7 @@
 		"Status": "CPI",
 		"Nome": "Luan",
 		"Gamer_Tag": "CPI Millotach88",
-		"Cidade": "Mercedes -Buenos Aires",
+		"Cidade": "Mercedes-Buenos Aires",
 		"Telefone": "(54)93855064336",
 		"Data_Aniversario": "3-4"
 	},
@@ -803,7 +811,7 @@
 		"Status": "CPI",
 		"Nome": "Jeison",
 		"Gamer_Tag": "CPI Jeison",
-		"Cidade": "Caxias do Sul- RS",
+		"Cidade": "Caxias do Sul-RS",
 		"Telefone": "(54)9162-0578",
 		"Data_Aniversario": "13-7"
 	},
@@ -819,7 +827,7 @@
 		"Status": "CPI",
 		"Nome": "Leonardo",
 		"Gamer_Tag": "CPI Leo Diniz2",
-		"Cidade": "Belo Vale- MG",
+		"Cidade": "Belo Vale-MG",
 		"Telefone": "(31)9285-3452",
 		"Data_Aniversario": "14-7"
 	},
@@ -883,7 +891,7 @@
 		"Status": "CPI",
 		"Nome": "Thiago Nunes",
 		"Gamer_Tag": "CPI Daileon",
-		"Cidade": "Nova Iguaçu -RJ",
+		"Cidade": "Nova Iguaçu-RJ",
 		"Telefone": "(21)99307-5489",
 		"Data_Aniversario": "27-7"
 	},
@@ -1083,7 +1091,7 @@
 		"Status": "CPI",
 		"Nome": "Diego Henrique",
 		"Gamer_Tag": "Dinokoshow",
-		"Cidade": "Vitoria de santo antao -PE",
+		"Cidade": "Vitoria de santo antao-PE",
 		"Telefone": "(81)9739-3361",
 		"Data_Aniversario": "20-9"
 	},
@@ -1259,7 +1267,7 @@
 		"Status": "CPI",
 		"Nome": "Brehmer",
 		"Gamer_Tag": "CPI Brehmer",
-		"Cidade": "Tobias Barreto -SE",
+		"Cidade": "Tobias Barreto-SE",
 		"Telefone": "(79)9860-5950",
 		"Data_Aniversario": "17-11"
 	},
@@ -1300,7 +1308,7 @@
 		"Nome": "Leonardo brito",
 		"Gamer_Tag": "CPI Jutisfox",
 		"Cidade": "Osasco-SP",
-		"Telefone": "(91)8156- 7946",
+		"Telefone": "(91)8156-7946",
 		"Data_Aniversario": "23-11"
 	},
 	{
@@ -1315,7 +1323,7 @@
 		"Status": "CPI",
 		"Nome": "Samuel Costa",
 		"Gamer_Tag": "CPI Winter",
-		"Cidade": "boca Raton- Florida",
+		"Cidade": "boca Raton-Florida",
 		"Telefone": "1(561)360-7524",
 		"Data_Aniversario": "27-11"
 	},
@@ -1647,6 +1655,4 @@
 		"Telefone": "(92)99249-3360",
 		"Data_Aniversario": "11-9"
 	}
-		
-	
 ]

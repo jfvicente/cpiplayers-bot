@@ -66,7 +66,25 @@ module.exports = (robot) => {
 						"title": "Mostra o último clipe do xbox",           
 						"text": "`@c-3po meu clipe xbox`",
 						"mrkdwn_in": ["text", "pretext"]
-				}				
+				},
+				{
+						"color": "#36a64f",                  
+						"title": "Mostra os filmes em destaque na sua cidade",           
+						"text": "`@c-3po cinema`",
+						"mrkdwn_in": ["text", "pretext"]
+				},
+				{
+						"color": "#36a64f",                  
+						"title": "Mostra os filmes em cartaz na sua cidade",           
+						"text": "`@c-3po cinema em cartaz`",
+						"mrkdwn_in": ["text", "pretext"]
+				},
+				{
+						"color": "#36a64f",                  
+						"title": "Mostra os filmes em breve na sua cidade",           
+						"text": "`@c-3po cinema em breve`",
+						"mrkdwn_in": ["text", "pretext"]
+				}					
 			];
 
 		robot.adapter.client.web.chat.postMessage(msg.message.room, "Aqui estão todos os comandos que você pode usar:", {as_user:true, attachments: comands});
