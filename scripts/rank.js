@@ -7,12 +7,13 @@
 //	 c-3po rank bf1 [classe ou geral] - mostra todo o rank bf1 geral ou da classe escolhida
 //	 c-3po rank pubg - mostra todo o rank PUBG
 //	 c-3po stats pubg - mostra as estatisticas do PUBG
-
+var moment = require("moment");
 const http = require('http');
 var data_members = require("../app/data/rankpubg.json");
 const Util = require("../app/services/util");
 const URL_RANK = "http://claprimeiroimperio.com.br/cpi/search_rank.php";
 const URL_STATS_PUBG = "http://ec2-52-34-157-203.us-west-2.compute.amazonaws.com:3000/getProfileData/";
+const URL_REFRESH_PUBG = "http://ec2-52-34-157-203.us-west-2.compute.amazonaws.com:3000/refreshData";
 
 module.exports = (robot) => {
 	robot.respond(/meu rank bf1/i, (msg) =>{
@@ -146,9 +147,30 @@ module.exports = (robot) => {
                 resp.on('data', (chunk) => { rawData += chunk; });
 
                 resp.on('end', () => {
-                    var stats = JSON.parse(rawData);                                                
-                    var stats_pubg = statsPubg(stats, cpitag);
-                    resolve(stats_pubg);                                               
+                    var stats = JSON.parse(rawData);
+                    var lastUpdated = moment(stats[cpitag].lastupdated); 
+                    
+                    if(lastUpdated.isBefore()){
+                        var xuid = stats[cpitag].xuid;
+                        http.get(`${URL_REFRESH_PUBG}/${xuid}/${encodeURIComponent(cpitag)}/STATS`, (respRef) =>{
+                            let rawData = '';
+                            respRef.on('data', (chunk) => { rawData += chunk; });
+
+                            respRef.on('end', () => {
+                                var stats = JSON.parse(rawData);
+                                var lastUpdated = moment(stats[cpitag].lastupdated); 
+
+                                var stats_pubg = statsPubg(stats, cpitag);
+                                resolve(stats_pubg); 
+                            });            
+                        }).on('error', (e) => {
+                            throw new Error();
+                        });
+                    }
+                    else{
+                        var stats_pubg = statsPubg(stats, cpitag);
+                        resolve(stats_pubg);            
+                    }                                   
                 });
             }).on('error', (e) => {
                 //console.log(cpitag);
